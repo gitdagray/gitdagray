@@ -1,12 +1,11 @@
-<img align="center" src="https://pbs.twimg.com/profile_banners/1951820972/1611850287/1080x360" />
+<!-- <img align="center" src="https://pbs.twimg.com/profile_banners/1951820972/1611850287/1080x360" /> -->
 
 ### Hello and Welcome 👋, I'm Dave Gray
 
 ### I'm a Father, Developer, Instructor, Mentor, and Content Creator
 - 👨🏽‍🎓 I enjoy teaching coding skills and helping students
 - 🌱 I'm currently growing my [Youtube Channel](https://www.youtube.com/c/davegrayteachescode)
-- 💻 I share source code for my tutorials here on GitHub
-- 💡 I'm constantly learning new skills _and enjoy it very much_ 
+- 💡 I'm constantly learning new skills 
 - 📚 Goal: Be the person I needed when I was younger
 - ⚡ Motto: _Keep striving for progress, not perfection_
 
