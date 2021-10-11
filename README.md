@@ -10,6 +10,10 @@
 - 📚 Goal: Be the person I needed when I was younger
 - ⚡ Motto: _Keep striving for progress, not perfection_
 
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCY38RvRIxYODO4penyxUwTg?label=SUBSCRIBERS&logo=Youtube&style=for-the-badge)
+![Connect on Twitter](https://img.shields.io/twitter/follow/yesdavidgray?logo=Twitter&color=1DA1F2&style=for-the-badge)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=for-the-badge)](https://www.linkedin.com/in/davidagray/)
+
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
@@ -22,8 +26,6 @@
 [<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Dave Gray | Youtube" height="30" width="40" />][youtube]
 [<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Dave Gray | Twitter" height="30" width="40" />][twitter]
 [<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dave Gray | LinkedIn" height="30" width="40" />][linkedin]
-
-<br />
 
 ## Programming Languages:
 [<img align="left" target="_blank" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][youtube]
@@ -39,20 +41,27 @@
 [<img align="left" target="_blank" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][youtube]
 [<img align="left" target="_blank" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][youtube]
 
-<br />
-
 ## Example Courses and Tutorials: 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=EfAl9bwzVZk
 " target="_blank"><img src="http://img.youtube.com/vi/EfAl9bwzVZk/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" /></a>
+alt="JavaScript Full Course" width="240" height="180" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=RVFAyFWO4go
 " target="_blank"><img src="http://img.youtube.com/vi/RVFAyFWO4go/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" /></a>
+alt="React JS Full Course" width="240" height="180" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=1S8SBDhA7HA
 " target="_blank"><img src="http://img.youtube.com/vi/1S8SBDhA7HA/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" /></a>
+alt="JavaScript Closures Tutorial" width="240" height="180" /></a>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gitdagray&show_icons=true&locale=en" alt="gitdagray" /></p>
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gitdagray&show_icons=true&count_private=true&theme=nightowl&locale=en" alt="gitdagray" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitdagray&theme=nightowl)]
+
 
 [jscourse]: https://youtu.be/EfAl9bwzVZk
 [reactcourse]: https://youtu.be/RVFAyFWO4go

@@ -1,15 +1,16 @@
 name: Latest blog post workflow
 on:
-  schedule: 
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: 
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-        - uses: actions/checkout@v2
-        - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://feedly.com/i/subscription/feed/https://www.freecodecamp.org/news/author/dave/rss/,https://yesdavidgray.com/rss.xml"
+          feed_list: "https://feedly.com/i/subscription/feed/https://www.freecodecamp.org/news/author/dave/rss/"
