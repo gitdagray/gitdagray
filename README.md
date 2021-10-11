@@ -65,8 +65,9 @@ alt="JavaScript Closures Tutorial" width="240" height="180" /></a>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gitdagray&show_icons=true&count_private=true&theme=nightowl&locale=en" alt="gitdagray" /></p>
 
 <br />
+<br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitdagray&theme=nightowl)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitdagray&theme=nightowl)
 
 
 [jscourse]: https://youtu.be/EfAl9bwzVZk
