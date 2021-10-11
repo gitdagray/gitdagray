@@ -2,24 +2,26 @@
 
 ### Hello and Welcome 👋, I'm Dave Gray
 
-## I'm a Father, Developer, Instructor, Mentor, and Content Creator
-- 🌱 I'm currently growing my [Youtube Channel](https://www.youtube.com/c/davegrayteachescode)
+### I'm a Father, Developer, Instructor, Mentor, and Content Creator
 - 👨🏽‍🎓 I enjoy teaching coding skills and helping students
+- 🌱 I'm currently growing my [Youtube Channel](https://www.youtube.com/c/davegrayteachescode)
+- 💻 I share source code for my tutorials here on GitHub
+- 💡 I'm constantly learning new skills _and enjoy it very much_ 
 - 📚 Goal: Be the person I needed when I was younger
 - ⚡ Motto: _Keep striving for progress, not perfection_
 
-#### 📖 Latest Blogs posts
+### 📖 Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-#### Connect with me:
+### Connect with me:
 [<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Dave Gray | Youtube" height="30" width="40" />][youtube]
 [<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Dave Gray | Twitter" height="30" width="40" />][twitter]
 [<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dave Gray | LinkedIn" height="30" width="40" />][linkedin]
 
 <br />
 
-## Languages:
+## Programming Languages:
 [<img align="left" target="_blank" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][youtube]
 [<img align="left" target="_blank" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][youtube]
 [<img align="left" target="_blank" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][youtube]
@@ -35,7 +37,7 @@
 
 <br />
 
-## Courses and Tutorials: 
+## Example Courses and Tutorials: 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=EfAl9bwzVZk
 " target="_blank"><img src="http://img.youtube.com/vi/EfAl9bwzVZk/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" /></a>
