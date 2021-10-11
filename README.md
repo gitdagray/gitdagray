@@ -34,7 +34,7 @@
 <br />
 <br />
 
-### 🖥️ Programming Languages:
+### 💻 Programming Languages:
 [<img align="left" target="_blank" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][youtube]
 [<img align="left" target="_blank" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][youtube]
 [<img align="left" target="_blank" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][youtube]
@@ -62,16 +62,7 @@ alt="React JS Full Course" width="240" height="180" /></a>
 " target="_blank"><img src="http://img.youtube.com/vi/1S8SBDhA7HA/0.jpg" 
 alt="JavaScript Closures Tutorial" width="240" height="180" /></a>
 
-
-### ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gitdagray&show_icons=true&count_private=true&theme=nightowl&locale=en" alt="gitdagray" /></p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitdagray&theme=nightowl)
-
 
 [jscourse]: https://youtu.be/EfAl9bwzVZk
 [reactcourse]: https://youtu.be/RVFAyFWO4go
