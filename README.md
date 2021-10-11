@@ -11,8 +11,6 @@
 - 📚 Goal: Be the person I needed when I was younger
 - ⚡ Motto: _Keep striving for progress, not perfection_
 
-<br />
-
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
 - [Avoid this React State Mistake | React Previous State Explained](https://www.youtube.com/watch?v=yvTGXH7uybA)
@@ -66,8 +64,6 @@ alt="React JS Full Course" width="240" height="180" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=1S8SBDhA7HA
 " target="_blank"><img src="http://img.youtube.com/vi/1S8SBDhA7HA/0.jpg" 
 alt="JavaScript Closures Tutorial" width="240" height="180" /></a>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gitdagray&show_icons=true&count_private=true&theme=nightowl&locale=en" alt="gitdagray" /></p>
 
 [jscourse]: https://youtu.be/EfAl9bwzVZk
 [reactcourse]: https://youtu.be/RVFAyFWO4go
