@@ -1,4 +1,6 @@
 <!-- <img align="center" src="https://pbs.twimg.com/profile_banners/1951820972/1611850287/1080x360" /> -->
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCY38RvRIxYODO4penyxUwTg?label=SUBSCRIBERS&logo=Youtube&style=for-the-badge)
+![Connect on Twitter](https://img.shields.io/twitter/follow/yesdavidgray?logo=Twitter&color=1DA1F2&style=for-the-badge)
 
 ### Hello and Welcome 👋, I'm Dave Gray
 
@@ -9,8 +11,7 @@
 - 📚 Goal: Be the person I needed when I was younger
 - ⚡ Motto: _Keep striving for progress, not perfection_
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCY38RvRIxYODO4penyxUwTg?label=SUBSCRIBERS&logo=Youtube&style=for-the-badge)
-![Connect on Twitter](https://img.shields.io/twitter/follow/yesdavidgray?logo=Twitter&color=1DA1F2&style=for-the-badge)
+<br />
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
