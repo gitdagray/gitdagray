@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [How to create MongoDB Schemas and Data Models | Node.js Tutorials for Beginners](https://www.youtube.com/watch?v=jZ-dzj6ut54)
 - [Intro to MongoDB and Mongoose | Node.js Tutorials for Beginners](https://www.youtube.com/watch?v=-PdjUx9JZ2E)
 - [How to Authorize User Roles and Permissions | Node.js & Express Authorization Tutorial](https://www.youtube.com/watch?v=fUWkVxCv4IQ)
 - [Avoid this React State Mistake | React Previous State Explained](https://www.youtube.com/watch?v=yvTGXH7uybA)
 - [JWT Authentication | Node JS and Express tutorials for Beginners](https://www.youtube.com/watch?v=favjC6EKFgw)
-- [User Password Authentication | Node.js & Express Tutorials for Beginners](https://www.youtube.com/watch?v=Nlg0JrUt0qg)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
