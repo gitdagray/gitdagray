@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [MongoDB Async CRUD Operations | Mongoose Async Await | Node.js Tutorial](https://www.youtube.com/watch?v=AWlLhRQJvtw)
 - [Javascript Debounce Tutorial | JS Debouncing Functions Explained with Examples](https://www.youtube.com/watch?v=yBFHwJgqLD4)
 - [How to create MongoDB Schemas and Data Models | Node.js Tutorials for Beginners](https://www.youtube.com/watch?v=jZ-dzj6ut54)
 - [Intro to MongoDB and Mongoose | Node.js Tutorials for Beginners](https://www.youtube.com/watch?v=-PdjUx9JZ2E)
 - [How to Authorize User Roles and Permissions | Node.js & Express Authorization Tutorial](https://www.youtube.com/watch?v=fUWkVxCv4IQ)
-- [Avoid this React State Mistake | React Previous State Explained](https://www.youtube.com/watch?v=yvTGXH7uybA)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
