@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Memoization and How to Memoize | Javascript Memoization Tutorial](https://www.youtube.com/watch?v=TWUV_LRVX24)
 - [forEach is BAD! for Async Await Code | Advanced Async/Await Javascript Tutorial](https://www.youtube.com/watch?v=4lqJBBEpjRE)
 - [Javascript Throttle Tutorial | JS Throttling Functions Explained with Examples](https://www.youtube.com/watch?v=1er63_Ki7MI)
 - [MongoDB Async CRUD Operations | Mongoose Async Await | Node.js Tutorial](https://www.youtube.com/watch?v=AWlLhRQJvtw)
 - [Javascript Debounce Tutorial | JS Debouncing Functions Explained with Examples](https://www.youtube.com/watch?v=yBFHwJgqLD4)
-- [How to create MongoDB Schemas and Data Models | Node.js Tutorials for Beginners](https://www.youtube.com/watch?v=jZ-dzj6ut54)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
