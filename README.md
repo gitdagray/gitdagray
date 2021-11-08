@@ -24,7 +24,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [My Recent Search History](https://yesdavidgray.com/my-recent-search-history)
 - [The More We Learn, The Less We Know](https://yesdavidgray.com/the-more-we-learn-the-less-we-know)
-- [Don't Do This: Tutorials for Beginners](https://yesdavidgray.com/dont-do-this-tutorials-for-beginners)
+- [Don&#39;t Do This: Tutorials for Beginners](https://yesdavidgray.com/dont-do-this-tutorials-for-beginners)
 - [Goals vs the Here and Now](https://yesdavidgray.com/goals-vs-the-here-and-now)
 - [The Hardest Part is Getting Started](https://yesdavidgray.com/the-hardest-part-is-getting-started)
 <!-- BLOG-POST-LIST:END -->
