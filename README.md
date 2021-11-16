@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [CHEATING with Github Copilot | University Professor Reviews Github Copilot](https://www.youtube.com/watch?v=1_sRGjm5Liw)
 - [ILLEGAL Source Code?! | Javascript Dataset Tutorial and How to Encode/Decode HTML](https://www.youtube.com/watch?v=akUp6hSsQjc)
 - [DO NOT use innerHTML - 2 BIG Reasons Why | Javascript Optimization Tips](https://www.youtube.com/watch?v=ILcu32Nkq_I)
 - [Memoization and How to Memoize | Javascript Memoization Tutorial](https://www.youtube.com/watch?v=TWUV_LRVX24)
 - [forEach is BAD! for Async Await Code | Advanced Async/Await Javascript Tutorial](https://www.youtube.com/watch?v=4lqJBBEpjRE)
-- [Javascript Throttle Tutorial | JS Throttling Functions Explained with Examples](https://www.youtube.com/watch?v=1er63_Ki7MI)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
