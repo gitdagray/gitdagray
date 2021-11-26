@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [BUILD a React Timer with useRef | React Hooks useRef Tutorial](https://www.youtube.com/watch?v=s6UAuFzL308)
 - [useMemo Explained | React Hooks useMemo Tutorial](https://www.youtube.com/watch?v=oR8gUi1LfWY)
 - [useCallback STOPS this React MISTAKE | useCallback React Hooks Tutorial](https://www.youtube.com/watch?v=FB_kOSHk1DM)
 - [CHEATING with Github Copilot | University Professor Reviews Github Copilot](https://www.youtube.com/watch?v=1_sRGjm5Liw)
 - [ILLEGAL Source Code?! | Javascript Dataset Tutorial and How to Encode/Decode HTML](https://www.youtube.com/watch?v=akUp6hSsQjc)
-- [DO NOT use innerHTML - 2 BIG Reasons Why | Javascript Optimization Tips](https://www.youtube.com/watch?v=ILcu32Nkq_I)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
