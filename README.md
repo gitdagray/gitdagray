@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [React Router v6 in 20 Minutes | RRv6 Upgrade &amp; Refactor Tutorial](https://www.youtube.com/watch?v=XBRLVRjZ3CQ)
 - [Node.js Full Course for Beginners | Complete All-in-One Tutorial | 7 Hours](https://www.youtube.com/watch?v=f2EqECiTBL8)
 - [useReducer is BETTER than useState | React Hook useReducer Tutorial](https://www.youtube.com/watch?v=26ogBZXeBwc)
 - [BUILD a React Timer with useRef | React Hooks useRef Tutorial](https://www.youtube.com/watch?v=s6UAuFzL308)
 - [useMemo Explained | React Hooks useMemo Tutorial](https://www.youtube.com/watch?v=oR8gUi1LfWY)
-- [useCallback STOPS this React MISTAKE | useCallback React Hooks Tutorial](https://www.youtube.com/watch?v=FB_kOSHk1DM)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
