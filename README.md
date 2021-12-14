@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [HTML Lists Tutorial | HTML5 List Types: Ordered, Unordered &amp; Description](https://www.youtube.com/watch?v=gJWNA3Fduek)
+- [HTML Tag Text Basics | HTML5 Element Text Tutorial](https://www.youtube.com/watch?v=tC56TakOjIE)
+- [Head Tag in HTML | An HTML5 Head Element Tutorial](https://www.youtube.com/watch?v=QRvA8Mp-uME)
+- [Introduction to HTML | An HTML5 Tutorial for Beginners](https://www.youtube.com/watch?v=P0EGYTb1cBs)
 - [CSS Width 100% NOT Working! | CSS Fixed Headers &amp; Footers Tutorial](https://www.youtube.com/watch?v=cGT8ZDJPPqY)
-- [React Router v6 in 20 Minutes | RRv6 Upgrade &amp; Refactor Tutorial](https://www.youtube.com/watch?v=XBRLVRjZ3CQ)
-- [Node.js Full Course for Beginners | Complete All-in-One Tutorial | 7 Hours](https://www.youtube.com/watch?v=f2EqECiTBL8)
-- [useReducer is BETTER than useState | React Hook useReducer Tutorial](https://www.youtube.com/watch?v=26ogBZXeBwc)
-- [BUILD a React Timer with useRef | React Hooks useRef Tutorial](https://www.youtube.com/watch?v=s6UAuFzL308)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
