@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [React JS Form Validation | Axios User Registration Form Submit | Beginners to Intermediate](https://www.youtube.com/watch?v=brcHK3P6ChQ)
 - [How to Insert Images in HTML | An HTML5 Image Tutorial](https://www.youtube.com/watch?v=0pBAfkZMKy0)
 - [useImperativeHandle Explained with an Example | React Hooks Tutorial](https://www.youtube.com/watch?v=ZtcgPhWv1e8)
 - [How to Add Links in HTML code | HTML5 Linking Tutorial](https://www.youtube.com/watch?v=iMj-TbN7ydg)
 - [useLayoutEffect vs useEffect | React Hooks Tutorial](https://www.youtube.com/watch?v=pHxQtHwcT-s)
-- [HTML Lists Tutorial | HTML5 List Types: Ordered, Unordered &amp; Description](https://www.youtube.com/watch?v=gJWNA3Fduek)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
