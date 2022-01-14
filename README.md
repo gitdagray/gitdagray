@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [React Protected Routes | Role-Based Authorization | React Router v6](https://www.youtube.com/watch?v=oUZjO00NkhY)
 - [How to Create Tables in HTML | HTML5 Table Tutorial](https://www.youtube.com/watch?v=e23RA_Uo99o)
 - [React User Login and Authentication with Axios](https://www.youtube.com/watch?v=X3qyxo_UTR4)
 - [Semantic HTML Tags | HTML5 Semantic Elements Tutorial](https://www.youtube.com/watch?v=kX3TfdUqpuU)
 - [React JS Form Validation | Axios User Registration Form Submit | Beginners to Intermediate](https://www.youtube.com/watch?v=brcHK3P6ChQ)
-- [How to Insert Images in HTML | An HTML5 Image Tutorial](https://www.youtube.com/watch?v=0pBAfkZMKy0)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
