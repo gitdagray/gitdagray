@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [HTML5 Website Project for Beginners | First HTML Project Tutorial](https://www.youtube.com/watch?v=T5PD8ofhiug)
 - [The Built-in React Hook 🤯 NO ONE talks about!](https://www.youtube.com/watch?v=NoylmJJPF48)
 - [HTML Forms and Inputs | HTML5 Tutorial for Beginners](https://www.youtube.com/watch?v=frAGrGN00OA)
 - [React Protected Routes | Role-Based Authorization | React Router v6](https://www.youtube.com/watch?v=oUZjO00NkhY)
 - [How to Create Tables in HTML | HTML5 Table Tutorial](https://www.youtube.com/watch?v=e23RA_Uo99o)
-- [React User Login and Authentication with Axios](https://www.youtube.com/watch?v=X3qyxo_UTR4)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
