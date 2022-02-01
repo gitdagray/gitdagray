@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [CSS Introduction and Tutorial for Beginners](https://www.youtube.com/watch?v=0W6qz0-aDaM)
 - [React Login Authentication with JWT Access, Refresh Tokens, Cookies and Axios](https://www.youtube.com/watch?v=nI8PYZNFtac)
 - [HTML5 Website Project for Beginners | First HTML Project Tutorial](https://www.youtube.com/watch?v=T5PD8ofhiug)
 - [The Built-in React Hook 🤯 NO ONE talks about!](https://www.youtube.com/watch?v=NoylmJJPF48)
 - [HTML Forms and Inputs | HTML5 Tutorial for Beginners](https://www.youtube.com/watch?v=frAGrGN00OA)
-- [React Protected Routes | Role-Based Authorization | React Router v6](https://www.youtube.com/watch?v=oUZjO00NkhY)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
