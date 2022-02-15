@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [CSS Colors Tutorial for Beginners](https://www.youtube.com/watch?v=Ddc-IIrIot0)
 - [React Login Input Hooks for User Form Data](https://www.youtube.com/watch?v=eQrbjvn_fSc)
 - [CSS Selectors Tutorial for Beginners](https://www.youtube.com/watch?v=QgxkYbGr2II)
 - [React Persistent User Login Authentication with JWT Tokens](https://www.youtube.com/watch?v=27KeYk-5vJw)
 - [CSS Introduction and Tutorial for Beginners](https://www.youtube.com/watch?v=0W6qz0-aDaM)
-- [React Login Authentication with JWT Access, Refresh Tokens, Cookies and Axios](https://www.youtube.com/watch?v=nI8PYZNFtac)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
