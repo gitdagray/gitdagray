@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [HTML Full Course for Beginners | Complete All-in-One Tutorial | 4 Hours](https://www.youtube.com/watch?v=mJgBOIoGihA)
 - [CSS Colors Tutorial for Beginners](https://www.youtube.com/watch?v=Ddc-IIrIot0)
 - [React Login Input Hooks for User Form Data](https://www.youtube.com/watch?v=eQrbjvn_fSc)
 - [CSS Selectors Tutorial for Beginners](https://www.youtube.com/watch?v=QgxkYbGr2II)
 - [React Persistent User Login Authentication with JWT Tokens](https://www.youtube.com/watch?v=27KeYk-5vJw)
-- [CSS Introduction and Tutorial for Beginners](https://www.youtube.com/watch?v=0W6qz0-aDaM)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
