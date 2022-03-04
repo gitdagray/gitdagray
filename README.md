@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [React.js User Login and Registration with Auth0](https://www.youtube.com/watch?v=pAzqscDx580)
 - [CSS Box Model Tutorial for Beginners](https://www.youtube.com/watch?v=L9khsrjMwKw)
 - [Use Axios with React Hooks for Async-Await Requests](https://www.youtube.com/watch?v=NqdqnfzOQFE)
 - [CSS Units &amp; Sizes Tutorial for Beginners](https://www.youtube.com/watch?v=_ybQREu-NU0)
 - [HTML Full Course for Beginners | Complete All-in-One Tutorial | 4 Hours](https://www.youtube.com/watch?v=mJgBOIoGihA)
-- [CSS Colors Tutorial for Beginners](https://www.youtube.com/watch?v=Ddc-IIrIot0)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
