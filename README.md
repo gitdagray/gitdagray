@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Refresh Token Rotation and Reuse Detection in Node.js JWT Authentication](https://www.youtube.com/watch?v=s-4k5TcGKHg)
 - [CSS Text and Fonts Tutorial for Beginners - Typography](https://www.youtube.com/watch?v=klXyJWlIzuY)
 - [React.js User Login and Registration with Auth0](https://www.youtube.com/watch?v=pAzqscDx580)
 - [CSS Box Model Tutorial for Beginners](https://www.youtube.com/watch?v=L9khsrjMwKw)
 - [Use Axios with React Hooks for Async-Await Requests](https://www.youtube.com/watch?v=NqdqnfzOQFE)
-- [CSS Units &amp; Sizes Tutorial for Beginners](https://www.youtube.com/watch?v=_ybQREu-NU0)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
