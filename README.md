@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [CSS Mini-Project for Beginners](https://www.youtube.com/watch?v=rwTs9NR3Du8)
 - [React Redux Example Project with Redux Toolkit](https://www.youtube.com/watch?v=hI-VgEaCMyQ)
 - [CSS List Styles Tutorial for Beginners](https://www.youtube.com/watch?v=jcThx0U066w)
 - [React Redux Toolkit Tutorial for Beginners | Learn Modern Redux](https://www.youtube.com/watch?v=u3KlatzB7GM)
 - [How to Style HTML hypertext links in CSS with visited, hover, active and focus](https://www.youtube.com/watch?v=sORF-Awir70)
-- [Refresh Token Rotation and Reuse Detection in Node.js JWT Authentication](https://www.youtube.com/watch?v=s-4k5TcGKHg)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
