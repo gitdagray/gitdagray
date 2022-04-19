@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [CSS Columns Tutorial for Beginners | Multicolumns without Grid or Flexbox](https://www.youtube.com/watch?v=f0A7moLkAL0)
 - [React Redux Performance Techniques and Optimizations](https://www.youtube.com/watch?v=GdOgYQzGexY)
 - [CSS Floats and Clears Tutorial for Beginners](https://www.youtube.com/watch?v=QkvFxXqElQ4)
 - [Blog App Project with React.js, Redux Toolkit CRUD Examples](https://www.youtube.com/watch?v=-f1iAsrkyB0)
 - [CSS Display Property Tutorial for Beginners | Block, Inline, &amp; Inline-Block Types](https://www.youtube.com/watch?v=naTAFo2Gyus)
-- [React Redux Thunk Middleware in Redux Toolkit for Async Actions with Axios](https://www.youtube.com/watch?v=93CR_yURoII)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
