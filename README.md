@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [React Redux Toolkit Query Tutorial and RTK Query CRUD Example App](https://www.youtube.com/watch?v=HyZzCHgG3AY)
 - [CSS Columns Tutorial for Beginners | Multicolumns without Grid or Flexbox](https://www.youtube.com/watch?v=f0A7moLkAL0)
 - [React Redux Performance Techniques and Optimizations](https://www.youtube.com/watch?v=GdOgYQzGexY)
 - [CSS Floats and Clears Tutorial for Beginners](https://www.youtube.com/watch?v=QkvFxXqElQ4)
 - [Blog App Project with React.js, Redux Toolkit CRUD Examples](https://www.youtube.com/watch?v=-f1iAsrkyB0)
-- [CSS Display Property Tutorial for Beginners | Block, Inline, &amp; Inline-Block Types](https://www.youtube.com/watch?v=naTAFo2Gyus)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
