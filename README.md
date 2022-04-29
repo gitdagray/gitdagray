@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Redux Advanced Tutorial - React, Redux Toolkit, RTK Query Project](https://www.youtube.com/watch?v=9P2IUx13MZI)
 - [CSS Position Property Tutorial for Beginners | Absolute, Relative, Fixed, Sticky](https://www.youtube.com/watch?v=zqg4A6g9GfA)
 - [React Redux Toolkit Query Tutorial and RTK Query CRUD Example App](https://www.youtube.com/watch?v=HyZzCHgG3AY)
 - [CSS Columns Tutorial for Beginners | Multicolumns without Grid or Flexbox](https://www.youtube.com/watch?v=f0A7moLkAL0)
 - [React Redux Performance Techniques and Optimizations](https://www.youtube.com/watch?v=GdOgYQzGexY)
-- [CSS Floats and Clears Tutorial for Beginners](https://www.youtube.com/watch?v=QkvFxXqElQ4)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
