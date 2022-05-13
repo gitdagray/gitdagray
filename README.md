@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [React Redux Full Course for Beginners | Redux Toolkit Complete Tutorial](https://www.youtube.com/watch?v=NqzdVN2tyvQ)
 - [CSS Grid Intro and Basic Layout Tutorial for Beginners](https://www.youtube.com/watch?v=EaWj2AWI5Es)
 - [Best Practices for React Data Security, Logins, Passwords, JWTs](https://www.youtube.com/watch?v=3QaFEu-KkR8)
 - [CSS Flexbox Intro | Flex CSS Tutorial for Beginners](https://www.youtube.com/watch?v=B8BFVzbKmPI)
 - [Redux Advanced Tutorial - React, Redux Toolkit, RTK Query Project](https://www.youtube.com/watch?v=9P2IUx13MZI)
-- [CSS Position Property Tutorial for Beginners | Absolute, Relative, Fixed, Sticky](https://www.youtube.com/watch?v=zqg4A6g9GfA)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
