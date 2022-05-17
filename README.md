@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [CSS Background Images and Responsive Image Properties for Beginners](https://www.youtube.com/watch?v=cLyzBfXI0I0)
 - [React Redux Full Course for Beginners | Redux Toolkit Complete Tutorial](https://www.youtube.com/watch?v=NqzdVN2tyvQ)
 - [CSS Grid Intro and Basic Layout Tutorial for Beginners](https://www.youtube.com/watch?v=EaWj2AWI5Es)
 - [Best Practices for React Data Security, Logins, Passwords, JWTs](https://www.youtube.com/watch?v=3QaFEu-KkR8)
 - [CSS Flexbox Intro | Flex CSS Tutorial for Beginners](https://www.youtube.com/watch?v=B8BFVzbKmPI)
-- [Redux Advanced Tutorial - React, Redux Toolkit, RTK Query Project](https://www.youtube.com/watch?v=9P2IUx13MZI)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
