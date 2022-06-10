@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [React v18 Hooks - useTransition vs useDeferredValue Examples &amp; Comparison](https://www.youtube.com/watch?v=U9Cth5xDEKs)
 - [CSS Pseudo-Classes vs Pseudo-Elements | Pseudo-Selectors Tutorial](https://www.youtube.com/watch?v=GNmz5dYjdcQ)
 - [React Query Tutorial for Beginners vs Redux, Axios with CRUD Example](https://www.youtube.com/watch?v=lLWfZL-Y8lM)
 - [CSS Responsive Card Design | Mini-Project Tutorial for Beginners](https://www.youtube.com/watch?v=mpYtrgB3b6o)
 - [React Redux Login Authentication Flow with JWT Access, Refresh Tokens, Cookies](https://www.youtube.com/watch?v=-JJFQ9bkUbo)
-- [CSS Media Queries &amp; Responsive Web Design tutorial for Beginners](https://www.youtube.com/watch?v=69IbzTWg5PM)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
