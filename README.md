@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [What is React.memo - It&#39;s not useMemo](https://www.youtube.com/watch?v=BlUwu_6rSkw)
 - [CSS Functions Tutorial for Beginners | min, max, clamp, minmax, calc, attr](https://www.youtube.com/watch?v=qWnIadj5b30)
 - [Node.js File Upload API with Express Tutorial](https://www.youtube.com/watch?v=4pmkQjsKJ-U)
 - [CSS Custom Variables &amp; Dark Mode | CSS Tutorial for Beginners](https://www.youtube.com/watch?v=K_M7D0PfOFM)
 - [React v18 Hooks - useTransition vs useDeferredValue Examples &amp; Comparison](https://www.youtube.com/watch?v=U9Cth5xDEKs)
-- [CSS Pseudo-Classes vs Pseudo-Elements | Pseudo-Selectors Tutorial](https://www.youtube.com/watch?v=GNmz5dYjdcQ)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
