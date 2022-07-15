@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Infinite Scroll in React | Full Tutorial](https://www.youtube.com/watch?v=JWlOcDus_rs)
 - [CSS Complete Project for Beginners](https://www.youtube.com/watch?v=cMN2Odm5ieA)
 - [Pagination in React Tutorial with React Query, Hooks Examples](https://www.youtube.com/watch?v=9ZbdwL5NSuQ)
 - [How to Organize CSS | Beginners BEM tutorial](https://www.youtube.com/watch?v=MNPdifWAAa4)
 - [How to stop useEffect from running twice on mount or first render in React](https://www.youtube.com/watch?v=81faZzp18NM)
-- [CSS Animated Responsive Navbar | CSS Animations for Beginners](https://www.youtube.com/watch?v=PN5OC1mZlfY)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
