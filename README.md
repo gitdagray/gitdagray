@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Search Filter in React JS with Search Bar in React Example](https://www.youtube.com/watch?v=ZoayCCDHFiI)
 - [CSS Full Course for Beginners | Complete All-in-One Tutorial | 11 Hours](https://www.youtube.com/watch?v=n4R2E7O-Ngo)
 - [Infinite Scroll in React | Full Tutorial](https://www.youtube.com/watch?v=JWlOcDus_rs)
 - [CSS Complete Project for Beginners](https://www.youtube.com/watch?v=cMN2Odm5ieA)
 - [Pagination in React Tutorial with React Query, Hooks Examples](https://www.youtube.com/watch?v=9ZbdwL5NSuQ)
-- [How to Organize CSS | Beginners BEM tutorial](https://www.youtube.com/watch?v=MNPdifWAAa4)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
