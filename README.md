@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [MongoDB MERN Stack Tutorial | MERN Project Data](https://www.youtube.com/watch?v=cUV3uYXEOxI)
 - [Middleware in a MERN Stack Project | REST API Tutorial](https://www.youtube.com/watch?v=JR9BeI7FY3M)
 - [MERN Stack Project | Fullstack Tutorial](https://www.youtube.com/watch?v=H-9l-gTq-C4)
 - [HTML CSS Animations | Reverse Mobile Menu Navbar](https://www.youtube.com/watch?v=VzkWH7mJpe8)
 - [Search Filter in React JS with Search Bar in React Example](https://www.youtube.com/watch?v=ZoayCCDHFiI)
-- [CSS Full Course for Beginners | Complete All-in-One Tutorial | 11 Hours](https://www.youtube.com/watch?v=n4R2E7O-Ngo)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
