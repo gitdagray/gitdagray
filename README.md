@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [React Forms with Redux &amp; RTK Query | MERN Stack Tutorial](https://www.youtube.com/watch?v=H3Vo2NJgPvQ)
 - [MERN Stack Project with React Redux and RTK Query](https://www.youtube.com/watch?v=TPAAQnVxc-I)
 - [React.js App Project | MERN Stack Tutorial](https://www.youtube.com/watch?v=5cc09qZK0VU)
 - [MERN API Controllers &amp; Routers | MERN Stack Project](https://www.youtube.com/watch?v=Iw_LHrip-iw)
 - [MongoDB MERN Stack Tutorial | MERN Project Data](https://www.youtube.com/watch?v=cUV3uYXEOxI)
-- [Middleware in a MERN Stack Project | REST API Tutorial](https://www.youtube.com/watch?v=JR9BeI7FY3M)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
