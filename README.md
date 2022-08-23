@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [MERN Stack Authentication with JWT Access, Refresh Tokens, Cookies](https://www.youtube.com/watch?v=4TtAGhr61VI)
 - [React Forms with Redux &amp; RTK Query | MERN Stack Tutorial](https://www.youtube.com/watch?v=H3Vo2NJgPvQ)
 - [MERN Stack Project with React Redux and RTK Query](https://www.youtube.com/watch?v=TPAAQnVxc-I)
 - [React.js App Project | MERN Stack Tutorial](https://www.youtube.com/watch?v=5cc09qZK0VU)
 - [MERN API Controllers &amp; Routers | MERN Stack Project](https://www.youtube.com/watch?v=Iw_LHrip-iw)
-- [MongoDB MERN Stack Tutorial | MERN Project Data](https://www.youtube.com/watch?v=cUV3uYXEOxI)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
