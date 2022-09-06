@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Code Refactoring in React, Node.js, Express, MongoDB | MERN Stack Project](https://www.youtube.com/watch?v=jEVyPJ3U_y0)
 - [User Role-Based Access Control &amp; Permissions in React JS | MERN Stack](https://www.youtube.com/watch?v=UhrmPH3TLus)
 - [JWT Authentication | Persist Login State on Refresh | MERN Stack](https://www.youtube.com/watch?v=9YnZHQsWmJs)
 - [Login Authentication in React.js with Redux | MERN Stack Project](https://www.youtube.com/watch?v=PDJm1Hwx0oo)
 - [MERN Stack Authentication with JWT Access, Refresh Tokens, Cookies](https://www.youtube.com/watch?v=4TtAGhr61VI)
-- [React Forms with Redux &amp; RTK Query | MERN Stack Tutorial](https://www.youtube.com/watch?v=H3Vo2NJgPvQ)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
