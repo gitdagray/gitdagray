@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Tailwind CSS Project | TailwindCSS Tutorial](https://www.youtube.com/watch?v=56a7USlq6SM)
 - [MERN Stack Full Tutorial &amp; Project | Complete All-in-One Course | 8 Hours](https://www.youtube.com/watch?v=CvCiNeLnZ00)
 - [Build a Website with Tailwind CSS | Project Tutorial](https://www.youtube.com/watch?v=VCpfd1NgBD8)
 - [How to Build a Multi-Page Form with React Hooks | Multi-Step Tutorial](https://www.youtube.com/watch?v=QSBc8bABwE0)
 - [Tailwind CSS Introduction, Basics &amp; Guided Tutorial](https://www.youtube.com/watch?v=pYaamz6AyvU)
-- [How to Use a Single Function to Manage React Form State](https://www.youtube.com/watch?v=FGM6FQmdX8I)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
