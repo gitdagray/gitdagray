@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [React Progress Bar for a Multi-Step Form](https://www.youtube.com/watch?v=8QOfBYxYy7U)
 - [Tailwind CSS Project | TailwindCSS Tutorial](https://www.youtube.com/watch?v=56a7USlq6SM)
 - [MERN Stack Full Tutorial &amp; Project | Complete All-in-One Course | 8 Hours](https://www.youtube.com/watch?v=CvCiNeLnZ00)
 - [Build a Website with Tailwind CSS | Project Tutorial](https://www.youtube.com/watch?v=VCpfd1NgBD8)
 - [How to Build a Multi-Page Form with React Hooks | Multi-Step Tutorial](https://www.youtube.com/watch?v=QSBc8bABwE0)
-- [Tailwind CSS Introduction, Basics &amp; Guided Tutorial](https://www.youtube.com/watch?v=pYaamz6AyvU)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
