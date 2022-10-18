@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Typescript for Beginners - Starter Lesson](https://www.youtube.com/watch?v=MOO5vrtTUTE)
 - [Tailwind CSS Config and Deploy Tutorial](https://www.youtube.com/watch?v=Oxb8mmTNIow)
 - [Have You Seen this useMemo Use Case? Memoize &amp; Optimize in React](https://www.youtube.com/watch?v=fWjfbPMCSi8)
 - [Animated Hamburger Icon, Mobile Menu &amp; Responsive Navbar with Tailwind CSS](https://www.youtube.com/watch?v=0TxMHYCMALE)
 - [React Progress Bar for a Multi-Step Form](https://www.youtube.com/watch?v=8QOfBYxYy7U)
-- [Tailwind CSS Project | TailwindCSS Tutorial](https://www.youtube.com/watch?v=56a7USlq6SM)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
