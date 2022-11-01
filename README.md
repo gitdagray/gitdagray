@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Typescript Functions | Basics Tutorial for Beginners](https://www.youtube.com/watch?v=s7kyOtFF120)
 - [Tailwind CSS Full Course for Beginners | Complete All-in-One Tutorial | 3 Hours](https://www.youtube.com/watch?v=lCxcTsOHrjo)
 - [Typescript Objects, Arrays, Tuples &amp; Enums | Basics Tutorial](https://www.youtube.com/watch?v=9dw2ik9N8wo)
 - [Typescript Basic Types - Beginners Lesson](https://www.youtube.com/watch?v=bDCPYSanB7A)
 - [Typescript for Beginners - Starter Lesson](https://www.youtube.com/watch?v=MOO5vrtTUTE)
-- [Tailwind CSS Config and Deploy Tutorial](https://www.youtube.com/watch?v=Oxb8mmTNIow)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
