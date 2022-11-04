@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Type Assertions &amp; Type Casting | Typescript Tutorial for Beginners](https://www.youtube.com/watch?v=Sj1425gwXxQ)
 - [Typescript Functions | Basics Tutorial for Beginners](https://www.youtube.com/watch?v=s7kyOtFF120)
 - [Tailwind CSS Full Course for Beginners | Complete All-in-One Tutorial | 3 Hours](https://www.youtube.com/watch?v=lCxcTsOHrjo)
 - [Typescript Objects, Arrays, Tuples &amp; Enums | Basics Tutorial](https://www.youtube.com/watch?v=9dw2ik9N8wo)
 - [Typescript Basic Types - Beginners Lesson](https://www.youtube.com/watch?v=bDCPYSanB7A)
-- [Typescript for Beginners - Starter Lesson](https://www.youtube.com/watch?v=MOO5vrtTUTE)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
