@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Typescript Index Signatures, keyof Assertions &amp; the Record Utility Type](https://www.youtube.com/watch?v=2eAqXLi8q70)
 - [TypeScript Classes Tutorial | TS for Beginners Lesson](https://www.youtube.com/watch?v=zQondDhCXDI)
 - [Type Assertions &amp; Type Casting | Typescript Tutorial for Beginners](https://www.youtube.com/watch?v=Sj1425gwXxQ)
 - [Typescript Functions | Basics Tutorial for Beginners](https://www.youtube.com/watch?v=s7kyOtFF120)
 - [Tailwind CSS Full Course for Beginners | Complete All-in-One Tutorial | 3 Hours](https://www.youtube.com/watch?v=lCxcTsOHrjo)
-- [Typescript Objects, Arrays, Tuples &amp; Enums | Basics Tutorial](https://www.youtube.com/watch?v=9dw2ik9N8wo)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
