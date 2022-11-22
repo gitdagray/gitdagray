@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [This VS Code Extension Is 🔥🔥](https://www.youtube.com/watch?v=zDiJpqVbszk)
 - [STOP Wasting Time! Your Next App Needs Vite! | JS, Typescript, React](https://www.youtube.com/watch?v=SsITROMWhnM)
 - [Typescript Utility Types | TS Beginners Tutorial](https://www.youtube.com/watch?v=YN4RoihmVKM)
 - [Typescript Generics | Beginners Tutorial with Examples](https://www.youtube.com/watch?v=RWG66gIo7PM)
 - [Typescript Index Signatures, keyof Assertions &amp; the Record Utility Type](https://www.youtube.com/watch?v=2eAqXLi8q70)
-- [TypeScript Classes Tutorial | TS for Beginners Lesson](https://www.youtube.com/watch?v=zQondDhCXDI)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
