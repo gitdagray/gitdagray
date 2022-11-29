@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Short Console.log&lpar;&rpar;? ✋No! Use This VS Code Extension Instead](https://www.youtube.com/watch?v=5MgHXnU3Nm0)
 - [Typescript Project from Scratch | Complete Tutorial for Beginners](https://www.youtube.com/watch?v=61v23Ce5SXA)
 - [This VS Code Extension Is 🔥🔥](https://www.youtube.com/watch?v=zDiJpqVbszk)
 - [STOP Wasting Time! Your Next App Needs Vite! | JS, Typescript, React](https://www.youtube.com/watch?v=SsITROMWhnM)
 - [Typescript Utility Types | TS Beginners Tutorial](https://www.youtube.com/watch?v=YN4RoihmVKM)
-- [Typescript Generics | Beginners Tutorial with Examples](https://www.youtube.com/watch?v=RWG66gIo7PM)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
