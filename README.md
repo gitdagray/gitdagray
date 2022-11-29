@@ -13,7 +13,7 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
-- [Short Console.log&lpar;&rpar;? ✋No! Use This VS Code Extension Instead](https://www.youtube.com/watch?v=5MgHXnU3Nm0)
+- [🚨 STOP Listening to Tech Twitter &amp; Do THIS Instead](https://www.youtube.com/watch?v=5MgHXnU3Nm0)
 - [Typescript Project from Scratch | Complete Tutorial for Beginners](https://www.youtube.com/watch?v=61v23Ce5SXA)
 - [This VS Code Extension Is 🔥🔥](https://www.youtube.com/watch?v=zDiJpqVbszk)
 - [STOP Wasting Time! Your Next App Needs Vite! | JS, Typescript, React](https://www.youtube.com/watch?v=SsITROMWhnM)
