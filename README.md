@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [React Typescript Tutorial for Beginners](https://www.youtube.com/watch?v=xTVQZ46wc28)
 - [🚨 STOP Listening to Tech Twitter &amp; Do THIS Instead](https://www.youtube.com/watch?v=5MgHXnU3Nm0)
 - [Typescript Project from Scratch | Complete Tutorial for Beginners](https://www.youtube.com/watch?v=61v23Ce5SXA)
 - [This VS Code Extension Is 🔥🔥](https://www.youtube.com/watch?v=zDiJpqVbszk)
 - [STOP Wasting Time! Your Next App Needs Vite! | JS, Typescript, React](https://www.youtube.com/watch?v=SsITROMWhnM)
-- [Typescript Utility Types | TS Beginners Tutorial](https://www.youtube.com/watch?v=YN4RoihmVKM)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
