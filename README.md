@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [🤬 Arguments vs Parameters 🚩](https://www.youtube.com/watch?v=OMIrZ8G2rBc)
 - [Learn useReducer with Typescript + React Hooks](https://www.youtube.com/watch?v=lSY5R9ByO6Y)
 - [🔥 JS Closures Explained Fast!](https://www.youtube.com/watch?v=FcrdHbrBVgA)
 - [Learn React Hooks with Typescript](https://www.youtube.com/watch?v=2NEV_M7NN6k)
 - [TypeScript &quot;as const&quot; assertion is 🔥🔥🔥](https://www.youtube.com/watch?v=jEuIp5NU3TU)
-- [React Typescript Tutorial for Beginners](https://www.youtube.com/watch?v=xTVQZ46wc28)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
