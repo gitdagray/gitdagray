@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [React Typescript Project Tutorial | Shopping Cart - Part 1](https://www.youtube.com/watch?v=HQFeTj0dGBo)
 - [😎 Get Cool Arrows in VS Code](https://www.youtube.com/watch?v=f1HVI5slxms)
 - [Context API React + Typescript | useContext &amp; useReducer Examples](https://www.youtube.com/watch?v=05ZM4ymK9Nc)
 - [🤬 Arguments vs Parameters 🚩](https://www.youtube.com/watch?v=OMIrZ8G2rBc)
 - [Learn useReducer with Typescript + React Hooks](https://www.youtube.com/watch?v=lSY5R9ByO6Y)
-- [🔥 JS Closures Explained Fast!](https://www.youtube.com/watch?v=FcrdHbrBVgA)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
