@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Drag and Drop in React with React Query and react-beautiful-dnd](https://www.youtube.com/watch?v=HeNVPF_fRXI)
 - [Web Dev Roadmap in One Minute! 🚀 Beginners Guide to Web Development](https://www.youtube.com/watch?v=OM0goBLkkQ8)
 - [React Typescript Project Tutorial | Shopping Cart - Part 2](https://www.youtube.com/watch?v=6Qqb2GBGgGc)
 - [🏆 Best VS Code Themes - Dark Modes](https://www.youtube.com/watch?v=dp4u1NNFhtE)
 - [React Typescript Project Tutorial | Shopping Cart - Part 1](https://www.youtube.com/watch?v=HQFeTj0dGBo)
-- [😎 Get Cool Arrows in VS Code](https://www.youtube.com/watch?v=f1HVI5slxms)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
