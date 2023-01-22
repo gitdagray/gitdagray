@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Rest vs Spread 😮 ...They look the same!](https://www.youtube.com/watch?v=E8Yd3CNYF7k)
 - [Skeleton Loading Components with Animation | React &amp; CSS Examples](https://www.youtube.com/watch?v=cNQTg920Nx0)
 - [This Could Be the BEST Way to fetch data from an API in React! | SWR Preload &amp; Optimistic UI](https://www.youtube.com/watch?v=6gb6oyO1Tyg)
 - [How to Get Lines Between Code Blocks in VS Code 👀](https://www.youtube.com/watch?v=MDaxWffMjrQ)
 - [Drag and Drop in React with React Query and react-beautiful-dnd](https://www.youtube.com/watch?v=HeNVPF_fRXI)
-- [Web Dev Roadmap in One Minute! 🚀 Beginners Guide to Web Development](https://www.youtube.com/watch?v=OM0goBLkkQ8)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
