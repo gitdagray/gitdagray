@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [TypeScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours](https://www.youtube.com/watch?v=gieEQFIfgYc)
 - [Write Clean Code with React Suspense | React Error Boundaries Explained](https://www.youtube.com/watch?v=1_dLaSjzOMY)
 - [Rest vs Spread 😮 ...They look the same!](https://www.youtube.com/watch?v=E8Yd3CNYF7k)
 - [Skeleton Loading Components with Animation | React &amp; CSS Examples](https://www.youtube.com/watch?v=cNQTg920Nx0)
 - [This Could Be the BEST Way to fetch data from an API in React! | SWR Preload &amp; Optimistic UI](https://www.youtube.com/watch?v=6gb6oyO1Tyg)
-- [How to Get Lines Between Code Blocks in VS Code 👀](https://www.youtube.com/watch?v=MDaxWffMjrQ)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
