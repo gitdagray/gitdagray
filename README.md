@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [React Lazy Load Code to Load Faster | React Code Splitting Tutorial](https://www.youtube.com/watch?v=nS5qbSJLGx8)
 - [CSS :has selector is Amazing! | How to use the CSS :has selector](https://www.youtube.com/watch?v=XdtZWVK3y_Q)
 - [No Dark Mode? 💡 Do This to Fix!](https://www.youtube.com/watch?v=PfKNiV8Dxa4)
 - [TypeScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours](https://www.youtube.com/watch?v=gieEQFIfgYc)
 - [Write Clean Code with React Suspense | React Error Boundaries Explained](https://www.youtube.com/watch?v=1_dLaSjzOMY)
-- [Rest vs Spread 😮 ...They look the same!](https://www.youtube.com/watch?v=E8Yd3CNYF7k)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
