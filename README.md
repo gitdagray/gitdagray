@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Git Tutorial for Absolute Beginners](https://www.youtube.com/watch?v=CvUiKWv2-C0)
 - [Know THIS Before Learning React!](https://www.youtube.com/watch?v=gP7pUZNCPb4)
 - [React Lazy Load Code to Load Faster | React Code Splitting Tutorial](https://www.youtube.com/watch?v=nS5qbSJLGx8)
 - [CSS :has selector is Amazing! | How to use the CSS :has selector](https://www.youtube.com/watch?v=XdtZWVK3y_Q)
 - [No Dark Mode? 💡 Do This to Fix!](https://www.youtube.com/watch?v=PfKNiV8Dxa4)
-- [TypeScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours](https://www.youtube.com/watch?v=gieEQFIfgYc)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
