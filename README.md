@@ -13,7 +13,7 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
-- [This Part of JS Is Misunderstood](https://www.youtube.com/watch?v=qH1uGxkIBDo)
+- [JS Concept MOST Misunderstood 🤔](https://www.youtube.com/watch?v=qH1uGxkIBDo)
 - [React Debounce Search Input API Call | useDebounce React Hook](https://www.youtube.com/watch?v=MHm-2YmWEek)
 - [Git Tutorial for Absolute Beginners](https://www.youtube.com/watch?v=CvUiKWv2-C0)
 - [Know THIS Before Learning React! | References vs Values, Referential Equality](https://www.youtube.com/watch?v=gP7pUZNCPb4)
