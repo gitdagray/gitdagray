@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Python Tutorial for Beginners with VS Code 🐍](https://www.youtube.com/watch?v=6i3e-j3wSf0)
 - [JS Concept MOST Misunderstood 🤔](https://www.youtube.com/watch?v=qH1uGxkIBDo)
 - [React Debounce Search Input API Call | useDebounce React Hook](https://www.youtube.com/watch?v=MHm-2YmWEek)
 - [Git Tutorial for Absolute Beginners](https://www.youtube.com/watch?v=CvUiKWv2-C0)
 - [Know THIS Before Learning React! | References vs Values, Referential Equality](https://www.youtube.com/watch?v=gP7pUZNCPb4)
-- [React Lazy Load Code to Load Faster | React Code Splitting Tutorial](https://www.youtube.com/watch?v=nS5qbSJLGx8)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
