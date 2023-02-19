@@ -13,7 +13,7 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
-- [Next.js Tutorial for Beginners](https://www.youtube.com/watch?v=6h649f2fB9Q)
+- [Next.js Tutorial for Beginners | Next.js 13](https://www.youtube.com/watch?v=6h649f2fB9Q)
 - [Python Tutorial for Beginners with VS Code 🐍](https://www.youtube.com/watch?v=6i3e-j3wSf0)
 - [JS Concept MOST Misunderstood 🤔](https://www.youtube.com/watch?v=qH1uGxkIBDo)
 - [React Debounce Search Input API Call | useDebounce React Hook](https://www.youtube.com/watch?v=MHm-2YmWEek)
