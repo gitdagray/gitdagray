@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Step-by-Step Python Basics Tutorial](https://www.youtube.com/watch?v=fLAfa-BQtOQ)
 - [😡 React Destroys Your CSS Layout | Full Screen React Components](https://www.youtube.com/watch?v=97rnXn7Ks3Y)
 - [Next.js Tutorial for Beginners | Next.js 13](https://www.youtube.com/watch?v=6h649f2fB9Q)
 - [Python Tutorial for Beginners with VS Code 🐍](https://www.youtube.com/watch?v=6i3e-j3wSf0)
 - [JS Concept MOST Misunderstood 🤔](https://www.youtube.com/watch?v=qH1uGxkIBDo)
-- [React Debounce Search Input API Call | useDebounce React Hook](https://www.youtube.com/watch?v=MHm-2YmWEek)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
