@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Python Operators for Beginners](https://www.youtube.com/watch?v=7BxUaeROVXI)
 - [VS Code Icons 🔥🔥](https://www.youtube.com/watch?v=-uhzj-kjfV4)
 - [Next.js Pages, Layout, Links, Routes &amp; Loading | Next.js 13 tutorial](https://www.youtube.com/watch?v=vuznUqirz5I)
 - [Step-by-Step Python Basics Tutorial](https://www.youtube.com/watch?v=fLAfa-BQtOQ)
 - [😡 React Destroys Your CSS Layout | Full Screen React Components](https://www.youtube.com/watch?v=97rnXn7Ks3Y)
-- [Next.js Tutorial for Beginners | Next.js 13](https://www.youtube.com/watch?v=6h649f2fB9Q)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
