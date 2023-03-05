@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Waterfalls vs Parallel Requests in JavaScript with Promise.all](https://www.youtube.com/watch?v=4TPR3AeFkf8)
 - [Next.js Data Fetching, Dynamic Routes &amp; Metadata | Nextjs 13](https://www.youtube.com/watch?v=1n7slbDB1bQ)
 - [Python Operators for Beginners](https://www.youtube.com/watch?v=7BxUaeROVXI)
 - [VS Code Icons 🔥🔥](https://www.youtube.com/watch?v=-uhzj-kjfV4)
 - [Next.js Pages, Layout, Links, Routes &amp; Loading | Next.js 13 tutorial](https://www.youtube.com/watch?v=vuznUqirz5I)
-- [Step-by-Step Python Basics Tutorial](https://www.youtube.com/watch?v=fLAfa-BQtOQ)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
