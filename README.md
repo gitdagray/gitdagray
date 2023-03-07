@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Python Data Types for Beginners | Python tutorial](https://www.youtube.com/watch?v=INGJh9DEaBM)
 - [Waterfalls vs Parallel Requests in JavaScript with Promise.all](https://www.youtube.com/watch?v=4TPR3AeFkf8)
 - [Next.js Data Fetching, Dynamic Routes &amp; Metadata | Nextjs 13](https://www.youtube.com/watch?v=1n7slbDB1bQ)
 - [Python Operators for Beginners | Python tutorial](https://www.youtube.com/watch?v=7BxUaeROVXI)
 - [VS Code Icons 🔥🔥](https://www.youtube.com/watch?v=-uhzj-kjfV4)
-- [Next.js Pages, Layout, Links, Routes &amp; Loading | Next.js 13 tutorial](https://www.youtube.com/watch?v=vuznUqirz5I)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
