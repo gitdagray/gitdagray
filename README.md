@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Next.js 13 SSG, SSR &amp; ISR | Nextjs 13 tutorial](https://www.youtube.com/watch?v=E1HzFvXgrCs)
 - [Python Data Types for Beginners | Python tutorial](https://www.youtube.com/watch?v=INGJh9DEaBM)
 - [Waterfalls vs Parallel Requests in JavaScript with Promise.all](https://www.youtube.com/watch?v=4TPR3AeFkf8)
 - [Next.js Data Fetching, Dynamic Routes &amp; Metadata | Nextjs 13](https://www.youtube.com/watch?v=1n7slbDB1bQ)
 - [Python Operators for Beginners | Python tutorial](https://www.youtube.com/watch?v=7BxUaeROVXI)
-- [VS Code Icons 🔥🔥](https://www.youtube.com/watch?v=-uhzj-kjfV4)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
