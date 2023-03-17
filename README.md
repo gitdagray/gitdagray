@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Next.js Client Components | Build a Small Project with Nextjs 13](https://www.youtube.com/watch?v=PcHY2Py6AQY)
 - [Python User Input &amp; Control Flow | Python tutorial](https://www.youtube.com/watch?v=N94vSNBF-EI)
 - [How Would You Solve This Code Problem?](https://www.youtube.com/watch?v=4JRnHGiVw5g)
 - [Next.js 13 SSG, SSR &amp; ISR | Nextjs 13 tutorial](https://www.youtube.com/watch?v=E1HzFvXgrCs)
 - [Python Data Types for Beginners | Python tutorial](https://www.youtube.com/watch?v=INGJh9DEaBM)
-- [Waterfalls vs Parallel Requests in JavaScript with Promise.all](https://www.youtube.com/watch?v=4TPR3AeFkf8)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
