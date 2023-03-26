@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [AI Won&#39;t Take Your Dev Job If You Have This Skill](https://www.youtube.com/watch?v=c8tUBvaAP1A)
 - [Next.js Blog Website | How to Build a Blog App with Nextjs 13](https://www.youtube.com/watch?v=puIQhnjOfbc)
 - [Python Lists &amp; Tuples for Beginners | Python tutorial](https://www.youtube.com/watch?v=KWKWswDfAb0)
 - [BIGGEST LIE in Coding Tutorials](https://www.youtube.com/watch?v=aDKo5JBnN6U)
 - [Next.js Client Components | Build a Small Project with Nextjs 13](https://www.youtube.com/watch?v=PcHY2Py6AQY)
-- [Python User Input &amp; Control Flow | Python tutorial](https://www.youtube.com/watch?v=N94vSNBF-EI)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
