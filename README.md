@@ -13,7 +13,7 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
-- [Next.js 13 Route Handlers | API Routes in Nextjs](https://www.youtube.com/watch?v=xirQ7AMyTM8)
+- [Next.js Route Handlers | API Routes in Nextjs 13](https://www.youtube.com/watch?v=xirQ7AMyTM8)
 - [Python Dictionaries and Sets for Beginners | Python tutorial](https://www.youtube.com/watch?v=zdVdqTLk8O0)
 - [AI Won&#39;t Take Your Dev Job If You Have This Skill](https://www.youtube.com/watch?v=c8tUBvaAP1A)
 - [Next.js Blog Website | How to Build a Blog App with Nextjs 13](https://www.youtube.com/watch?v=puIQhnjOfbc)
