@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Python Functions for Beginners | Python tutorial](https://www.youtube.com/watch?v=NZMBVkTP3LA)
 - [Python While Loops &amp; For Loops | Python tutorial for Beginners](https://www.youtube.com/watch?v=23vCap6iYSs)
 - [Don&#39;t Make THIS State Mistake! 👀](https://www.youtube.com/watch?v=9nGDVWm_Xg0)
 - [Next.js Route Handlers | API Routes in Nextjs 13](https://www.youtube.com/watch?v=xirQ7AMyTM8)
 - [Python Dictionaries and Sets for Beginners | Python tutorial](https://www.youtube.com/watch?v=zdVdqTLk8O0)
-- [AI Won&#39;t Take Your Dev Job If You Have This Skill](https://www.youtube.com/watch?v=c8tUBvaAP1A)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
