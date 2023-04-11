@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [How to Build a REST API with Next.js 13](https://www.youtube.com/watch?v=-MFiza7ZRzs)
 - [Do This BEFORE You Submit a GitHub Issue](https://www.youtube.com/watch?v=j0D_8qGT8CA)
 - [Python Functions for Beginners | Python tutorial](https://www.youtube.com/watch?v=NZMBVkTP3LA)
 - [Python While Loops &amp; For Loops | Python tutorial for Beginners](https://www.youtube.com/watch?v=23vCap6iYSs)
 - [Don&#39;t Make THIS State Mistake! 👀](https://www.youtube.com/watch?v=9nGDVWm_Xg0)
-- [Next.js Route Handlers | API Routes in Nextjs 13](https://www.youtube.com/watch?v=xirQ7AMyTM8)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
