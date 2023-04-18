@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Recursion for Python Beginners with Recursive Function Examples](https://www.youtube.com/watch?v=72uVUU1boKo)
 - [What is CORS? Blocked by CORS policy error explained](https://www.youtube.com/watch?v=1iOeoRCUD4M)
 - [Next.js Middleware &amp; Cors | Nextjs 13 tutorial](https://www.youtube.com/watch?v=h4-2K7nFf7s)
 - [How to Build a REST API with Next.js 13](https://www.youtube.com/watch?v=-MFiza7ZRzs)
 - [Do This BEFORE You Submit a GitHub Issue](https://www.youtube.com/watch?v=j0D_8qGT8CA)
-- [Python Functions for Beginners | Python tutorial](https://www.youtube.com/watch?v=NZMBVkTP3LA)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
