@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Python Scope tutorial for Beginners](https://www.youtube.com/watch?v=e_UgAqOdEXY)
 - [Use Node.js to Create a Secret Web Token](https://www.youtube.com/watch?v=6v1SlCdwlBQ)
 - [Revalidate with Next.js | On-Demand Revalidation in Nextjs 13](https://www.youtube.com/watch?v=Q3UP1Is8Pvw)
 - [Recursion for Python Beginners with Recursive Function Examples](https://www.youtube.com/watch?v=72uVUU1boKo)
 - [What is CORS? Blocked by CORS policy error explained](https://www.youtube.com/watch?v=1iOeoRCUD4M)
-- [Next.js Middleware &amp; Cors | Nextjs 13 tutorial](https://www.youtube.com/watch?v=h4-2K7nFf7s)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
