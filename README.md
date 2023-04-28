@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Mutating Data in Next.js | Mutations with Nextjs 13](https://www.youtube.com/watch?v=v_HpVwCDAgU)
 - [Python Scope tutorial for Beginners](https://www.youtube.com/watch?v=e_UgAqOdEXY)
 - [Use Node.js to Create a Secret Web Token](https://www.youtube.com/watch?v=6v1SlCdwlBQ)
 - [Revalidate with Next.js | On-Demand Revalidation in Nextjs 13](https://www.youtube.com/watch?v=Q3UP1Is8Pvw)
 - [Recursion for Python Beginners with Recursive Function Examples](https://www.youtube.com/watch?v=72uVUU1boKo)
-- [What is CORS? Blocked by CORS policy error explained](https://www.youtube.com/watch?v=1iOeoRCUD4M)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
