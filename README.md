@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Build and Deploy a Next.js Blog with Remote MDX Content Files and Nextjs 13](https://www.youtube.com/watch?v=6ih_3m_UPKg)
 - [Python Closures for Beginners | Python tutorial](https://www.youtube.com/watch?v=8Lu5DdTxGCU)
 - [🔥 How to Format Dates in JavaScript 2023](https://www.youtube.com/watch?v=NTuCphbIk2g)
 - [Mutating Data in Next.js | Mutations with Nextjs 13](https://www.youtube.com/watch?v=v_HpVwCDAgU)
 - [Python Scope tutorial for Beginners](https://www.youtube.com/watch?v=e_UgAqOdEXY)
-- [Use Node.js to Create a Secret Web Token](https://www.youtube.com/watch?v=6v1SlCdwlBQ)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
