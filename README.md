@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Python Modules for Beginners](https://www.youtube.com/watch?v=8ArHkS70QsQ)
 - [What is a Monorepo? ⚡](https://www.youtube.com/watch?v=FpANooFlzm8)
 - [Python f-Strings - Advanced String Formatting tutorial for beginners](https://www.youtube.com/watch?v=ktOOKv6XJ7U)
 - [Build and Deploy a Next.js Blog with Remote MDX Content Files and Nextjs 13](https://www.youtube.com/watch?v=6ih_3m_UPKg)
 - [Python Closures for Beginners | Python tutorial](https://www.youtube.com/watch?v=8Lu5DdTxGCU)
-- [🔥 How to Format Dates in JavaScript 2023](https://www.youtube.com/watch?v=NTuCphbIk2g)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
