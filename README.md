@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Python Command Line Arguments tutorial for Beginners](https://www.youtube.com/watch?v=mZbRRQMJ7Ew)
 - [Why Flexbox?? 😳 Why Do Flex Items Stretch?](https://www.youtube.com/watch?v=e9Fx2hRT-UQ)
 - [Next.js Full Course for Beginners | Nextjs 13 Tutorial | 7 Hours](https://www.youtube.com/watch?v=843nec-IvW0)
 - [Python Modules for Beginners](https://www.youtube.com/watch?v=8ArHkS70QsQ)
 - [What is a Monorepo? ⚡](https://www.youtube.com/watch?v=FpANooFlzm8)
-- [Python f-Strings - Advanced String Formatting tutorial for beginners](https://www.youtube.com/watch?v=ktOOKv6XJ7U)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
