@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Python Challenges for Beginners with Solutions](https://www.youtube.com/watch?v=odBW-NClTNA)
 - [🔥 Fetch Better! Type &amp; Runtime Safety with Zod-Fetch](https://www.youtube.com/watch?v=tLO0XRKcwUc)
 - [Typescript &amp;  Zod tutorial with React-Hook-Form](https://www.youtube.com/watch?v=JZjUv_qFtvM)
 - [Python Command Line Arguments tutorial for Beginners](https://www.youtube.com/watch?v=mZbRRQMJ7Ew)
 - [Why Flexbox?? 😳 Why Do Flex Items Stretch?](https://www.youtube.com/watch?v=e9Fx2hRT-UQ)
-- [Next.js Full Course for Beginners | Nextjs 13 Tutorial | 7 Hours](https://www.youtube.com/watch?v=843nec-IvW0)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
