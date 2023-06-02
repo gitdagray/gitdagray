@@ -13,11 +13,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Server Actions in Next.js | Nextjs 13 Server Mutations](https://www.youtube.com/watch?v=BmUsDuLO598)
 - [Python Challenges for Beginners with Solutions](https://www.youtube.com/watch?v=odBW-NClTNA)
 - [🔥 Fetch Better! Type &amp; Runtime Safety with Zod-Fetch](https://www.youtube.com/watch?v=tLO0XRKcwUc)
 - [Typescript &amp;  Zod tutorial with React-Hook-Form](https://www.youtube.com/watch?v=JZjUv_qFtvM)
 - [Python Command Line Arguments tutorial for Beginners](https://www.youtube.com/watch?v=mZbRRQMJ7Ew)
-- [Why Flexbox?? 😳 Why Do Flex Items Stretch?](https://www.youtube.com/watch?v=e9Fx2hRT-UQ)
 <!-- YOUTUBE:END -->
 
 ### ✍️ Latest Blogs posts
