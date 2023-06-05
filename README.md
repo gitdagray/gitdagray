@@ -37,7 +37,7 @@
 [<img align="left" target="_blank" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html-course]
 [<img align="left" target="_blank" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css-course]
 [<img align="left" target="_blank" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript-course]
-[<img align="left" target="_blank" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typeScript/typeScript.png" />][typescript-course]
+[<img align="left" target="_blank" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][typescript-course]
 [<img align="left" target="_blank" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react-course]
 [<img align="left" target="_blank" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />][redux-course]
 [<img align="left" target="_blank" alt="Tailwind CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />][tailwind-course]
@@ -55,9 +55,11 @@
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=843nec-IvW0
 " target="_blank"><img src="http://img.youtube.com/vi/843nec-IvW0/0.jpg" 
 alt="Next.js 13 Full Course" width="240" height="180" /></a>
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=gieEQFIfgYc
 " target="_blank"><img src="http://img.youtube.com/vi/gieEQFIfgYc/0.jpg" 
 alt="TypeScript Full Course" width="240" height="180" /></a>
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=1S8SBDhA7HA
 " target="_blank"><img src="http://img.youtube.com/vi/1S8SBDhA7HA/0.jpg" 
 alt="JavaScript Closures Tutorial" width="240" height="180" /></a>
