@@ -4,14 +4,18 @@ on:
     # Runs every hour
     - cron: '0 * * * *'
   workflow_dispatch:
+permissions:
+  contents: write # To write the generated contents to the readme
 
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest Youtube videos
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in latest YouTube videos
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "YOUTUBE"
           commit_message: "Updated readme with the latest Youtube videos"
