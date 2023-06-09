@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [How to Upload Images to a Server in Next.js | Nextjs 13](https://www.youtube.com/watch?v=OyxDGWgNJMc)
 - [Python lambda, map, filter, &amp; reduce - Higher Order Functions for Beginners](https://www.youtube.com/watch?v=YIOYJgLQYiY)
 - [TypeScript Satisfies Operator Can Be Very Useful](https://www.youtube.com/watch?v=MC1Jx2kTKCM)
 - [Server Actions in Next.js | Nextjs 13 Server Mutations](https://www.youtube.com/watch?v=BmUsDuLO598)
 - [Python Challenges for Beginners with Solutions](https://www.youtube.com/watch?v=odBW-NClTNA)
-- [🔥 Fetch Better! Type &amp; Runtime Safety with Zod-Fetch](https://www.youtube.com/watch?v=tLO0XRKcwUc)
 <!-- YOUTUBE:END -->
 
 ### 📬 Connect with me:
