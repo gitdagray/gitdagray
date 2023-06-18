@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Build a Random Quote Machine with Nextjs, PlanetScale MySQL, &amp; Drizzle ORM](https://www.youtube.com/watch?v=d7XJjQesDtE)
 - [Python Classes, Objects, Inheritance &amp; Polymorphism for Beginners](https://www.youtube.com/watch?v=RpBBzci_cBk)
 - [What is an Import Alias? And how to use them!](https://www.youtube.com/watch?v=Lna5CjbxD4o)
 - [How to Upload Images to a Server in Next.js | Nextjs 13](https://www.youtube.com/watch?v=OyxDGWgNJMc)
 - [Python lambda, map, filter, &amp; reduce - Higher Order Functions for Beginners](https://www.youtube.com/watch?v=YIOYJgLQYiY)
-- [TypeScript Satisfies Operator Can Be Very Useful](https://www.youtube.com/watch?v=MC1Jx2kTKCM)
 <!-- YOUTUBE:END -->
 
 ### 📬 Connect with me:
