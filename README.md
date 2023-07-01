@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Next-Auth Login Authentication Tutorial with Next.js App Directory](https://www.youtube.com/watch?v=w2h54xz6Ndw)
 - [Python OOP &lpar;Object-Oriented Programming&rpar; Project for Beginners](https://www.youtube.com/watch?v=PMFd95RgIwE)
 - [Next.js - What is Cold Boot Duration / Lambda Cold Start?](https://www.youtube.com/watch?v=NWc7FU_qQ8g)
 - [Python Exception Handling Tutorial for Beginners](https://www.youtube.com/watch?v=PHzm_Iox1mE)
 - [Build a Random Quote Machine with Nextjs, PlanetScale MySQL, &amp; Drizzle ORM](https://www.youtube.com/watch?v=d7XJjQesDtE)
-- [Python Classes, Objects, Inheritance &amp; Polymorphism for Beginners](https://www.youtube.com/watch?v=RpBBzci_cBk)
 <!-- YOUTUBE:END -->
 
 ### 📬 Connect with me:
