@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Python Virtual Environment and pip for Beginners](https://www.youtube.com/watch?v=eDe-z2Qy9x4)
 - [Next-Auth Login Authentication Tutorial with Next.js App Directory](https://www.youtube.com/watch?v=w2h54xz6Ndw)
 - [Python OOP &lpar;Object-Oriented Programming&rpar; Project for Beginners](https://www.youtube.com/watch?v=PMFd95RgIwE)
 - [Next.js - What is Cold Boot Duration / Lambda Cold Start?](https://www.youtube.com/watch?v=NWc7FU_qQ8g)
 - [Python Exception Handling Tutorial for Beginners](https://www.youtube.com/watch?v=PHzm_Iox1mE)
-- [Build a Random Quote Machine with Nextjs, PlanetScale MySQL, &amp; Drizzle ORM](https://www.youtube.com/watch?v=d7XJjQesDtE)
 <!-- YOUTUBE:END -->
 
 ### 📬 Connect with me:
