@@ -18,7 +18,7 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
-- [How to Create Web Application in Python using Flask](https://www.youtube.com/watch?v=jQjjqEjZK58)
+- [How to Create a Web Application in Python using Flask](https://www.youtube.com/watch?v=jQjjqEjZK58)
 - [My Login Authentication &amp; User Registration Setup for React &amp; Next.js | Kinde Auth](https://www.youtube.com/watch?v=WtHQGlKGUrU)
 - [Python File Handling for Beginners](https://www.youtube.com/watch?v=BRrem1k3904)
 - [Next.js Role-Based User Authorization &amp; Access Control | Next Auth Protected Routes](https://www.youtube.com/watch?v=ay-atEUGIc4)
