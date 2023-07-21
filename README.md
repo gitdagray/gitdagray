@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Next.js Image Optimization with Image Component | Responsive Images](https://www.youtube.com/watch?v=gpJKj45AikY)
 - [How to Create a Web Application in Python using Flask](https://www.youtube.com/watch?v=jQjjqEjZK58)
 - [My Login Authentication &amp; User Registration Setup for React &amp; Next.js | Kinde Auth](https://www.youtube.com/watch?v=WtHQGlKGUrU)
 - [Python File Handling for Beginners](https://www.youtube.com/watch?v=BRrem1k3904)
 - [Next.js Role-Based User Authorization &amp; Access Control | Next Auth Protected Routes](https://www.youtube.com/watch?v=ay-atEUGIc4)
-- [Python Virtual Environment and pip for Beginners](https://www.youtube.com/watch?v=eDe-z2Qy9x4)
 <!-- YOUTUBE:END -->
 
 ### 📬 Connect with me:
