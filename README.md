@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Python Full Course for Beginners | Complete All-in-One Tutorial | 9 Hours](https://www.youtube.com/watch?v=H2EJuAcrZYU)
 - [SIZE MATTERS 👀 when you Optimize Responsive Images in Next.js](https://www.youtube.com/watch?v=CxctanmF9lk)
 - [Next.js Image Optimization with Image Component | Responsive Images](https://www.youtube.com/watch?v=gpJKj45AikY)
 - [How to Create a Web Application in Python using Flask](https://www.youtube.com/watch?v=jQjjqEjZK58)
 - [My Login Authentication &amp; User Registration Setup for React &amp; Next.js | Kinde Auth](https://www.youtube.com/watch?v=WtHQGlKGUrU)
-- [Python File Handling for Beginners](https://www.youtube.com/watch?v=BRrem1k3904)
 <!-- YOUTUBE:END -->
 
 ### 📬 Connect with me:
