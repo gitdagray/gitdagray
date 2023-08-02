@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Type-Safe .env Validation with Envalid | Environment Variables](https://www.youtube.com/watch?v=jNdJhEDiK6Q)
 - [Stop Using Zod!! This is 10x Smaller!](https://www.youtube.com/watch?v=nCZ06oegzeM)
 - [Python Full Course for Beginners | Complete All-in-One Tutorial | 9 Hours](https://www.youtube.com/watch?v=H2EJuAcrZYU)
 - [SIZE MATTERS 👀 when you Optimize Responsive Images in Next.js](https://www.youtube.com/watch?v=CxctanmF9lk)
 - [Next.js Image Optimization with Image Component | Responsive Images](https://www.youtube.com/watch?v=gpJKj45AikY)
-- [How to Create a Web Application in Python using Flask](https://www.youtube.com/watch?v=jQjjqEjZK58)
 <!-- YOUTUBE:END -->
 
 ### 📬 Connect with me:
