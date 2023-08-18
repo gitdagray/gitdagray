@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Next.js with React Testing Library, Jest, TypeScript](https://www.youtube.com/watch?v=AS79oJ3Fcf0)
 - [Modal in Next.js &amp; React | Create a Dialog Component](https://www.youtube.com/watch?v=fwq9vePfwkI)
 - [Introduction to Jest Testing | JavaScript Unit Tests](https://www.youtube.com/watch?v=x6NUZ8dc9Qg)
 - [🚨 Avoid useState for Modals &amp; Dialogs](https://www.youtube.com/watch?v=qaJpoDs_Uqo)
 - [How to Use the Next.js blurDataUrl Images Prop with Plaiceholder](https://www.youtube.com/watch?v=Bz3No1RFXWY)
-- [Type-Safe .env Validation with Envalid | Environment Variables](https://www.youtube.com/watch?v=jNdJhEDiK6Q)
 <!-- YOUTUBE:END -->
 
 ### 📬 Connect with me:
