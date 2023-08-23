@@ -61,6 +61,9 @@ alt="JavaScript Closures Tutorial" width="240" height="180" /></a>
 " target="_blank"><img src="http://img.youtube.com/vi/gieEQFIfgYc/0.jpg" 
 alt="TypeScript Full Course" width="240" height="180" /></a>
 
+
+<!-- Sorry just practicing git by forking you repo it's just practice -->
+
 [html-course]: https://youtu.be/mJgBOIoGihA
 [css-course]: https://youtu.be/n4R2E7O-Ngo
 [javascript-course]: https://youtu.be/EfAl9bwzVZk
