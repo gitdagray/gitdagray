@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [React Summit US - Don&#39;t Miss Out!](https://www.youtube.com/watch?v=Lut9rs7gyKs)
 - [🤯 NEVER Guess React Event Types Again!](https://www.youtube.com/watch?v=caWa3IFDUbY)
 - [Next.js with React Testing Library, Jest, TypeScript](https://www.youtube.com/watch?v=AS79oJ3Fcf0)
 - [Modal in Next.js &amp; React | Create a Dialog Component](https://www.youtube.com/watch?v=fwq9vePfwkI)
 - [Introduction to Jest Testing | JavaScript Unit Tests](https://www.youtube.com/watch?v=x6NUZ8dc9Qg)
-- [🚨 Avoid useState for Modals &amp; Dialogs](https://www.youtube.com/watch?v=qaJpoDs_Uqo)
 <!-- YOUTUBE:END -->
 
 ### 📬 Connect with me:
