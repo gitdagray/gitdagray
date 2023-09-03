@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [😲 I Was WRONG About Next.js Client Components](https://www.youtube.com/watch?v=KY-9VUaPXHE)
 - [Testing a Next.js App with React Testing Library &amp; Jest](https://www.youtube.com/watch?v=XTNqyEBPAFw)
 - [React Summit US - Don&#39;t Miss Out!](https://www.youtube.com/watch?v=Lut9rs7gyKs)
 - [🤯 NEVER Guess React Event Types Again!](https://www.youtube.com/watch?v=caWa3IFDUbY)
 - [Next.js with React Testing Library, Jest, TypeScript](https://www.youtube.com/watch?v=AS79oJ3Fcf0)
-- [Modal in Next.js &amp; React | Create a Dialog Component](https://www.youtube.com/watch?v=fwq9vePfwkI)
 <!-- YOUTUBE:END -->
 
 ### 📬 Connect with me:
