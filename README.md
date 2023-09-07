@@ -18,7 +18,7 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
-- [The Epic Stack for React, Server Components &amp; Remix - Kent C. Dodds at React Summit US](https://www.youtube.com/watch?v=uVib5rjBuEM)
+- [The Epic Stack for React, Remix - Interview with Kent C. Dodds, Speaker at React Summit US](https://www.youtube.com/watch?v=uVib5rjBuEM)
 - [😲 I Was WRONG About Next.js Client Components](https://www.youtube.com/watch?v=KY-9VUaPXHE)
 - [Testing a Next.js App with React Testing Library &amp; Jest](https://www.youtube.com/watch?v=XTNqyEBPAFw)
 - [React Summit US - Don&#39;t Miss Out!](https://www.youtube.com/watch?v=Lut9rs7gyKs)
