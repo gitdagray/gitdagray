@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Want to Earn 6 Figures? Learn React! - Interview with Rachel Nabors, Speaker at React Summit US](https://www.youtube.com/watch?v=Kyk8pCbPI7U)
 - [How to Mock a REST API Server for Testing with Jest &amp; React Testing Library](https://www.youtube.com/watch?v=k0LPNKWCxx0)
 - [The Epic Stack for React, Remix - Interview with Kent C. Dodds, Speaker at React Summit US](https://www.youtube.com/watch?v=uVib5rjBuEM)
 - [😲 I Was WRONG About Next.js Client Components](https://www.youtube.com/watch?v=KY-9VUaPXHE)
 - [Testing a Next.js App with React Testing Library &amp; Jest](https://www.youtube.com/watch?v=XTNqyEBPAFw)
-- [React Summit US - Don&#39;t Miss Out!](https://www.youtube.com/watch?v=Lut9rs7gyKs)
 <!-- YOUTUBE:END -->
 
 ### 📬 Connect with me:
