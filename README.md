@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Building a Chat App - Intro to WebSockets](https://www.youtube.com/watch?v=J8xReLuBNPY)
 - [How I Use AI to be a Productive Developer](https://www.youtube.com/watch?v=Yyn-yS1sKRY)
 - [Want to Earn 6 Figures? Learn React! - Interview with Rachel Nabors, Speaker at React Summit US](https://www.youtube.com/watch?v=Kyk8pCbPI7U)
 - [How to Mock a REST API Server for Testing with Jest &amp; React Testing Library](https://www.youtube.com/watch?v=k0LPNKWCxx0)
 - [The Epic Stack for React, Remix - Interview with Kent C. Dodds, Speaker at React Summit US](https://www.youtube.com/watch?v=uVib5rjBuEM)
-- [😲 I Was WRONG About Next.js Client Components](https://www.youtube.com/watch?v=KY-9VUaPXHE)
 <!-- YOUTUBE:END -->
 
 ### 📬 Connect with me:
