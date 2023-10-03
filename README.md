@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [🌊 Add Waves, Shapes &amp; Curves to Your Website](https://www.youtube.com/watch?v=AnP5CPVtO7Y)
 - [Express Chat App with Node.js &amp; Socket.io](https://www.youtube.com/watch?v=ypqs_u9GbpQ)
 - [How to Get Lines Between Files in VS Code 🔥](https://www.youtube.com/watch?v=uLIPfrI6kwI)
 - [Socket.io Introduction - How to Build a Chat App](https://www.youtube.com/watch?v=SGQM7PU9hzI)
 - [Building a Chat App - Intro to WebSockets](https://www.youtube.com/watch?v=J8xReLuBNPY)
-- [How I Use AI to be a Productive Developer](https://www.youtube.com/watch?v=Yyn-yS1sKRY)
 <!-- YOUTUBE:END -->
 
 ### 📬 Connect with me:
