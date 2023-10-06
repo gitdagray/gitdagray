@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Chat Activity Detection - Build a Chat App with Socket.io](https://www.youtube.com/watch?v=gOVjKoPgiM4)
 - [🌊 Add Waves, Shapes &amp; Curves to Your Website](https://www.youtube.com/watch?v=AnP5CPVtO7Y)
 - [Express Chat App with Node.js &amp; Socket.io](https://www.youtube.com/watch?v=ypqs_u9GbpQ)
 - [How to Get Lines Between Files in VS Code 🔥](https://www.youtube.com/watch?v=uLIPfrI6kwI)
 - [Socket.io Introduction - How to Build a Chat App](https://www.youtube.com/watch?v=SGQM7PU9hzI)
-- [Building a Chat App - Intro to WebSockets](https://www.youtube.com/watch?v=J8xReLuBNPY)
 <!-- YOUTUBE:END -->
 
 ### 📬 Connect with me:
