@@ -18,7 +18,7 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
-- [🤮 FormData API Bad Until Now! 🚀](https://www.youtube.com/watch?v=-owgB7FD638)
+- [👀 FormData was Bad Until Now! 🚀](https://www.youtube.com/watch?v=-owgB7FD638)
 - [Chat Activity Detection - Build a Chat App with Socket.io](https://www.youtube.com/watch?v=gOVjKoPgiM4)
 - [🌊 Add Waves, Shapes &amp; Curves to Your Website](https://www.youtube.com/watch?v=AnP5CPVtO7Y)
 - [Express Chat App with Node.js &amp; Socket.io](https://www.youtube.com/watch?v=ypqs_u9GbpQ)
