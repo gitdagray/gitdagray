@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Next.js Project Example with Discussion](https://www.youtube.com/watch?v=D_w2Z3sIkTc)
 - [NO Array to String Loops! 🔥🔥](https://www.youtube.com/watch?v=JEEdBIihMes)
 - [Rise of the AI Engineer  - Interview with Shawn Swyx Wang Speaker at React Summit US](https://www.youtube.com/watch?v=0wydME9ajWM)
 - [Real Time Chat App with Users, Rooms | Node.js, Express, Socket.io](https://www.youtube.com/watch?v=ba4T590JPnw)
 - [👀 FormData was Bad Until Now! 🚀](https://www.youtube.com/watch?v=-owgB7FD638)
-- [Chat Activity Detection - Build a Chat App with Socket.io](https://www.youtube.com/watch?v=gOVjKoPgiM4)
 <!-- YOUTUBE:END -->
 
 ### 📬 Connect with me:
