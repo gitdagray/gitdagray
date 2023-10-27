@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Nest.js Tutorial for Beginners](https://www.youtube.com/watch?v=juNVinepwKA)
 - [👋👋 Bye Bye Nodemon!](https://www.youtube.com/watch?v=tmI8oFG670A)
 - [Next.js Project Example with Discussion](https://www.youtube.com/watch?v=D_w2Z3sIkTc)
 - [NO Array to String Loops! 🔥🔥](https://www.youtube.com/watch?v=JEEdBIihMes)
 - [Rise of the AI Engineer  - Interview with Shawn Swyx Wang Speaker at React Summit US](https://www.youtube.com/watch?v=0wydME9ajWM)
-- [Real Time Chat App with Users, Rooms | Node.js, Express, Socket.io](https://www.youtube.com/watch?v=ba4T590JPnw)
 <!-- YOUTUBE:END -->
 
 ### 📬 Connect with me:
