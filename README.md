@@ -20,7 +20,7 @@
 <!-- YOUTUBE:START -->
 - [NestJS Fundamentals - Providers tutorial](https://www.youtube.com/watch?v=ECEkU5WreVU)
 - [Dave Gray Live Stream](https://www.youtube.com/watch?v=b0zbZtXOyJc)
-- [React Summit US - Summit Track - Live](https://www.youtube.com/watch?v=DSSD9_O0w-o)
+- [Live stream of React Summit US Conference – Day 1, Summit Track](https://www.youtube.com/watch?v=DSSD9_O0w-o)
 - [Next.js MISTAKE is 👀 Easy to Make!](https://www.youtube.com/watch?v=loW6Zp5ussg)
 - [Nest.js Controllers Tutorial](https://www.youtube.com/watch?v=otw0zQ0NSa4)
 <!-- YOUTUBE:END -->
