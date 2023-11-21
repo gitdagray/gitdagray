@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [What is ISR in Next.js? 🤔](https://www.youtube.com/watch?v=kf2m_as89gI)
 - [NestJS DTO Schemas, Validation &amp; Pipes Tutorial](https://www.youtube.com/watch?v=ZLp92Iw0rkI)
 - [Non-Serializable Props in Next.js](https://www.youtube.com/watch?v=MdlYyqnvo7M)
 - [NestJS Fundamentals - Providers tutorial](https://www.youtube.com/watch?v=ECEkU5WreVU)
 - [Dave Gray Live Stream](https://www.youtube.com/watch?v=b0zbZtXOyJc)
-- [Next.js MISTAKE is 👀 Easy to Make!](https://www.youtube.com/watch?v=loW6Zp5ussg)
 <!-- YOUTUBE:END -->
 
 ### 📬 Connect with me:
