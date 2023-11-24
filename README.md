@@ -28,8 +28,8 @@
 
 ### 📚 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG:START -->
+<!-- BLOG:END -->
 
 ### 📬 Connect with me:
 
