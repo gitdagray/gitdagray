@@ -44,7 +44,6 @@
 [![LinkedIn](./img/linkedin-dark.svg)](https://linkedin.com/in/davidagray#gh-dark-mode-only)
 
 <br>
-<br>
 
 ---
 
@@ -64,6 +63,8 @@
 [<img align="left" target="_blank" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />][python-course]
 [<img align="left" target="_blank" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />][sql-course]
 [<img align="left" target="_blank" alt="git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />][git-tutorial]
+
+<br>
 
 ### 🎓 Example Courses and Tutorials:
 
