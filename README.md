@@ -1,22 +1,23 @@
+# Hello and Welcome 👋, I'm Dave Gray
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCY38RvRIxYODO4penyxUwTg?label=SUBSCRIBERS&logo=Youtube&style=for-the-badge)
 
+## I'm a Developer, Instructor, and Content Creator
 
-### Hello and Welcome 👋, I'm Dave Gray
-
-### I'm a Father, Developer, Instructor, Mentor, and Content Creator
-- 👨🏽‍🎓 I enjoy teaching coding skills as well as helping students & fellow developers
-- 🌱 I'm currently growing my [Youtube Channel](https://www.youtube.com/c/davegrayteachescode)
-- 📚 I'm constantly learning new skills and _striving for progress_
+- 👨‍🏫 I enjoy teaching coding skills as well as helping students & fellow developers
+- 🌱 I'm currently growing my [Youtube Channel][youtube]
+- 👨‍💻 Read my articles & tutorials at [davegray.codes][website]
 - 🏆 Goal: Be the person I needed when I was younger
 - ⚡ Motto: _Keep striving for progress, not perfection_
 
 ### 💻 Useful Links
-- 🚙 [FREE Web Dev Roadmap](https://courses.davegray.codes/) with 70+ Hours of tutorials
+
+- 📚 [FREE Web Dev Roadmap](https://courses.davegray.codes/) with 70+ Hours of tutorials
 - ❓ [My Discord]( https://discord.gg/neKghyefqh) is a great place to ask questions
 - ☕ [Buy Me A Coffee](https://www.buymeacoffee.com/davegray) if you like what I do. I appreciate the support! 
 
 ### 📺 Latest Youtube Videos
+
 <!-- YOUTUBE:START -->
 - [What is ISR in Next.js? 🤔](https://www.youtube.com/watch?v=kf2m_as89gI)
 - [NestJS DTO Schemas, Validation &amp; Pipes Tutorial](https://www.youtube.com/watch?v=ZLp92Iw0rkI)
@@ -25,33 +26,47 @@
 - [Dave Gray Live Stream](https://www.youtube.com/watch?v=b0zbZtXOyJc)
 <!-- YOUTUBE:END -->
 
-### 📬 Connect with me:
-[<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Dave Gray | Youtube" height="30" width="40" />][youtube]
-[<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Dave Gray | Twitter" height="30" width="40" />][twitter]
-[<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dave Gray | LinkedIn" height="30" width="40" />][linkedin]
+### Latest Blog Posts
 
-<br />
-<br />
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### 📬 Connect with me:
+
+&nbsp;&nbsp;
+[![YouTube channel](./img/youtube-light.svg)](https://www.youtube.com/@DaveGrayTeachesCode#gh-light-mode-only)
+[![YouTube channel](./img/youtube-dark.svg)](https://www.youtube.com/@DaveGrayTeachesCode#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![TwitterX](./img/twitterx-light.svg)](https://twitter.com/yesdavidgray#gh-light-mode-only)
+[![TwitterX](./img/twitterx-dark.svg)](https://twitter.com/yesdavidgray#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![LinkedIn](./img/linkedin-light.svg)](https://linkedin.com/in/davidagray#gh-light-mode-only)
+[![LinkedIn](./img/linkedin-dark.svg)](https://linkedin.com/in/davidagray#gh-dark-mode-only)
+
+<br>
+<br>
+
+---
 
 ### 💻 Links to Courses & Tutorials:
-[<img align="left" target="_blank" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html-course]
-[<img align="left" target="_blank" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css-course]
-[<img align="left" target="_blank" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript-course]
-[<img align="left" target="_blank" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][typescript-course]
-[<img align="left" target="_blank" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react-course]
-[<img align="left" target="_blank" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />][redux-course]
-[<img align="left" target="_blank" alt="Tailwind CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />][tailwind-course]
-[<img align="left" target="_blank" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node-js-course]
-[<img align="left" target="_blank" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][mern-course]
-[<img align="left" target="_blank" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mern-course]
-[<img align="left" target="_blank" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python-course]
-[<img align="left" target="_blank" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql-course]
-[<img align="left" target="_blank" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git-tutorial]
 
-<br />
-<br />
+[<img align="left" target="_blank" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />][html-course]
+[<img align="left" target="_blank" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />][css-course]
+[<img align="left" target="_blank" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />][javascript-course]
+[<img align="left" target="_blank" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />][typescript-course]
+[<img align="left" target="_blank" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />][react-course]
+[<img align="left" target="_blank" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />][nextjs-course]
+[<img align="left" target="_blank" alt="Redux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />][redux-course]
+[<img align="left" target="_blank" alt="Tailwind CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />][tailwind-course]
+[<img align="left" target="_blank" alt="NodeJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />][node-js-course]
+[<img align="left" target="_blank" alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />][mern-course]
+[<img align="left" target="_blank" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />][mern-course]
+[<img align="left" target="_blank" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />][python-course]
+[<img align="left" target="_blank" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />][sql-course]
+[<img align="left" target="_blank" alt="git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />][git-tutorial]
 
-### 🎓 Example Courses and Tutorials: 
+### 🎓 Example Courses and Tutorials:
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=843nec-IvW0
 " target="_blank"><img src="http://img.youtube.com/vi/843nec-IvW0/0.jpg" 
 alt="Next.js 13 Full Course" width="240" height="180" /></a>&nbsp;&nbsp;&nbsp;<a href="http://www.youtube.com/watch?feature=player_embedded&v=1S8SBDhA7HA
@@ -65,14 +80,16 @@ alt="TypeScript Full Course" width="240" height="180" /></a>
 [css-course]: https://youtu.be/n4R2E7O-Ngo
 [javascript-course]: https://youtu.be/EfAl9bwzVZk
 [typescript-course]: https://youtu.be/gieEQFIfgYc
+[nextjs-course]: https://youtu.be/843nec-IvW0
 [react-course]: https://youtu.be/RVFAyFWO4go
 [redux-course]: https://youtu.be/NqzdVN2tyvQ
 [tailwind-course]: https://youtu.be/lCxcTsOHrjo
 [node-js-course]: https://youtu.be/f2EqECiTBL8
 [mern-course]: https://youtu.be/CvCiNeLnZ00
-[python-course]: https://www.youtube.com/playlist?list=PL0Zuz27SZ-6MQri81d012LwP5jvFZ_scc
+[python-course]: https://youtu.be/H2EJuAcrZYU
 [sql-course]: https://youtu.be/WFNtmhwU5HU
 [git-tutorial]: https://youtu.be/CvUiKWv2-C0
 [twitter]: https://twitter.com/yesdavidgray
 [linkedin]: https://linkedin.com/in/davidagray
-[youtube]: https://www.youtube.com/c/davegrayteachescode
+[youtube]: https://www.youtube.com/@DaveGrayTeachesCode
+[website]: https://www.davegray.codes
