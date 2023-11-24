@@ -26,7 +26,7 @@
 - [Dave Gray Live Stream](https://www.youtube.com/watch?v=b0zbZtXOyJc)
 <!-- YOUTUBE:END -->
 
-### Latest Blog Posts
+### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -42,8 +42,6 @@
 &nbsp;&nbsp;
 [![LinkedIn](./img/linkedin-light.svg)](https://linkedin.com/in/davidagray#gh-light-mode-only)
 [![LinkedIn](./img/linkedin-dark.svg)](https://linkedin.com/in/davidagray#gh-dark-mode-only)
-
-<br>
 
 ---
 
@@ -64,7 +62,7 @@
 [<img align="left" target="_blank" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />][sql-course]
 [<img align="left" target="_blank" alt="git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />][git-tutorial]
 
-<br>
+<br><br>
 
 ### 🎓 Example Courses and Tutorials:
 
