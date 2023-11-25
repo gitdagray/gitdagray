@@ -3,6 +3,7 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCY38RvRIxYODO4penyxUwTg?label=SUBSCRIBERS&logo=Youtube&style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/gitdagray?style=for-the-badge)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.davegray.codes&style=for-the-badge&label=davegray.codes)
+[![Dave's Discord](https://img.shields.io/discord/809820980285276210?color=7289DA&logo=discord&logoColor=white&style=for-the-badge)][discord]
 
 ## I'm a Developer, Instructor, and Content Creator
 
@@ -15,7 +16,7 @@
 ### 💻 Useful Links
 
 - 📚 [FREE Web Dev Roadmap](https://courses.davegray.codes/) with 70+ Hours of tutorials
-- ❓ [My Discord]( https://discord.gg/neKghyefqh) is a great place to ask questions
+- ❓ [My Discord][discord] is a great place to ask questions
 - ☕ [Sponsor My Work](https://github.com/sponsors/gitdagray) if you like what I do. I appreciate the support! 
 
 ### 📺 Latest Youtube Videos
@@ -97,6 +98,13 @@
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
         </picture>
     </a>&nbsp;&nbsp;
+    <a href="https://discord.gg/neKghyefqh" target="_blank" rel="noreferrer">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./img/discord-dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+        </picture>
+    </a>&nbsp;&nbsp;
 </p>
 
 ---
@@ -137,3 +145,4 @@ alt="TypeScript Full Course" width="240" height="180" /></a>
 
 [youtube]: https://www.youtube.com/@DaveGrayTeachesCode
 [website]: https://www.davegray.codes
+[discord]: https://discord.gg/neKghyefqh
