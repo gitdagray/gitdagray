@@ -1,7 +1,6 @@
 # Hello and Welcome 👋, I'm Dave Gray
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCY38RvRIxYODO4penyxUwTg?label=SUBSCRIBERS&logo=Youtube&style=for-the-badge)
-![GitHub User's stars](https://img.shields.io/github/stars/gitdagray?style=for-the-badge)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.davegray.codes&style=for-the-badge&label=davegray.codes)
 [![Dave's Discord](https://img.shields.io/discord/809820980285276210?color=7289DA&logo=discord&logoColor=white&style=for-the-badge)][discord]
 
