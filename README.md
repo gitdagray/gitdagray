@@ -57,7 +57,6 @@
     </a>
     <a href="https://yesdavidgray.hashnode.dev" target="_blank" rel="noreferrer">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="undefined" />
             <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" />
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" />
         </picture>
@@ -78,7 +77,6 @@
     </a>
     <a href="https://www.davegray.codes/feed.xml" target="_blank" rel="noreferrer">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="undefined" />
             <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" />
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" />
         </picture>
@@ -92,7 +90,6 @@
     </a>
     <a href="https://www.youtube.com/@DaveGrayTeachesCode" target="_blank" rel="noreferrer">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="undefined" />
             <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
         </picture>
