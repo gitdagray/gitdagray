@@ -1,6 +1,8 @@
 # Hello and Welcome 👋, I'm Dave Gray
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCY38RvRIxYODO4penyxUwTg?label=SUBSCRIBERS&logo=Youtube&style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/gitdagray?style=for-the-badge)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.davegray.codes&style=for-the-badge&label=davegray.codes)
 
 ## I'm a Developer, Instructor, and Content Creator
 
@@ -14,7 +16,7 @@
 
 - 📚 [FREE Web Dev Roadmap](https://courses.davegray.codes/) with 70+ Hours of tutorials
 - ❓ [My Discord]( https://discord.gg/neKghyefqh) is a great place to ask questions
-- ☕ [Buy Me A Coffee](https://www.buymeacoffee.com/davegray) if you like what I do. I appreciate the support! 
+- ☕ [Sponsor My Work](https://github.com/sponsors/gitdagray) if you like what I do. I appreciate the support! 
 
 ### 📺 Latest Youtube Videos
 
@@ -37,37 +39,90 @@
 <!-- BLOG:END -->
 
 ### 📬 Connect with me:
-
-&nbsp;&nbsp;
-[![YouTube channel](./img/youtube-light.svg)](https://www.youtube.com/@DaveGrayTeachesCode#gh-light-mode-only)
-[![YouTube channel](./img/youtube-dark.svg)](https://www.youtube.com/@DaveGrayTeachesCode#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![TwitterX](./img/twitterx-light.svg)](https://twitter.com/yesdavidgray#gh-light-mode-only)
-[![TwitterX](./img/twitterx-dark.svg)](https://twitter.com/yesdavidgray#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![LinkedIn](./img/linkedin-light.svg)](https://linkedin.com/in/davidagray#gh-light-mode-only)
-[![LinkedIn](./img/linkedin-dark.svg)](https://linkedin.com/in/davidagray#gh-dark-mode-only)
+                  
+<p align="left">
+    <a href="https://www.dev.to/gitdagray" target="_blank" rel="noreferrer">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
+        </picture>
+    </a>
+    <a href="https://www.github.com/gitdagray" target="_blank" rel="noreferrer">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+        </picture>
+    </a>
+    <a href="https://yesdavidgray.hashnode.dev" target="_blank" rel="noreferrer">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" />
+        </picture>
+    </a>
+    <a href="https://www.linkedin.com/in/davidagray" target="_blank" rel="noreferrer">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+        </picture>
+    </a>
+    <a href="http://www.medium.com/davegray_86804" target="_blank" rel="noreferrer">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
+        </picture>
+    </a>
+    <a href="https://www.davegray.codes/feed.xml" target="_blank" rel="noreferrer">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" />
+        </picture>
+    </a>
+    <a href="https://www.x.com/yesdavidgray" target="_blank" rel="noreferrer">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+        </picture>
+    </a>
+    <a href="https://www.youtube.com/@DaveGrayTeachesCode" target="_blank" rel="noreferrer">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
+        </picture>
+    </a>
+</p>
 
 ---
 
 ### 💻 Links to Courses & Tutorials:
 
-[<img align="left" target="_blank" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />][html-course]
-[<img align="left" target="_blank" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />][css-course]
-[<img align="left" target="_blank" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />][javascript-course]
-[<img align="left" target="_blank" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />][typescript-course]
-[<img align="left" target="_blank" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />][react-course]
-[<img align="left" target="_blank" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />][nextjs-course]
-[<img align="left" target="_blank" alt="Redux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />][redux-course]
-[<img align="left" target="_blank" alt="Tailwind CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />][tailwind-course]
-[<img align="left" target="_blank" alt="NodeJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />][node-js-course]
-[<img align="left" target="_blank" alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />][mern-course]
-[<img align="left" target="_blank" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />][mern-course]
-[<img align="left" target="_blank" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />][python-course]
-[<img align="left" target="_blank" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />][sql-course]
-[<img align="left" target="_blank" alt="git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />][git-tutorial]
-
-<br><br>
+<p align="left">
+    <a href="https://youtu.be/mJgBOIoGihA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+    <a href="https://youtu.be/n4R2E7O-Ngo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+    <a href="https://youtu.be/EfAl9bwzVZk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+    <a href="https://youtu.be/gieEQFIfgYc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+    <a href="https://youtu.be/CvUiKWv2-C0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+    <a href="https://youtu.be/lCxcTsOHrjo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+    <a href="https://youtu.be/SsITROMWhnM" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
+    <a href="https://youtu.be/RVFAyFWO4go" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+    <a href="https://youtu.be/NqzdVN2tyvQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+    <a href="https://youtu.be/843nec-IvW0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
+    <a href="https://youtu.be/f2EqECiTBL8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+    <a href="https://youtu.be/jivyItmsu18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
+    <a href="https://youtu.be/juNVinepwKA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
+    <a href="https://youtu.be/-PdjUx9JZ2E" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+    <a href="https://youtu.be/l134cBAJCuc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a>
+    <a href="https://youtu.be/WFNtmhwU5HU" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+    <a href="https://youtu.be/H2EJuAcrZYU" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+    <a href="https://youtu.be/jQjjqEjZK58" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
+</p>
 
 ### 🎓 Example Courses and Tutorials:
 
@@ -80,20 +135,5 @@ alt="JavaScript Closures Tutorial" width="240" height="180" /></a>
 " target="_blank"><img src="http://img.youtube.com/vi/gieEQFIfgYc/0.jpg" 
 alt="TypeScript Full Course" width="240" height="180" /></a>
 
-[html-course]: https://youtu.be/mJgBOIoGihA
-[css-course]: https://youtu.be/n4R2E7O-Ngo
-[javascript-course]: https://youtu.be/EfAl9bwzVZk
-[typescript-course]: https://youtu.be/gieEQFIfgYc
-[nextjs-course]: https://youtu.be/843nec-IvW0
-[react-course]: https://youtu.be/RVFAyFWO4go
-[redux-course]: https://youtu.be/NqzdVN2tyvQ
-[tailwind-course]: https://youtu.be/lCxcTsOHrjo
-[node-js-course]: https://youtu.be/f2EqECiTBL8
-[mern-course]: https://youtu.be/CvCiNeLnZ00
-[python-course]: https://youtu.be/H2EJuAcrZYU
-[sql-course]: https://youtu.be/WFNtmhwU5HU
-[git-tutorial]: https://youtu.be/CvUiKWv2-C0
-[twitter]: https://twitter.com/yesdavidgray
-[linkedin]: https://linkedin.com/in/davidagray
 [youtube]: https://www.youtube.com/@DaveGrayTeachesCode
 [website]: https://www.davegray.codes
