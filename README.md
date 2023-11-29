@@ -31,11 +31,11 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
+- [How to Add Google Analytics to Your Next.js Website](https://www.davegray.codes/posts/how-to-add-google-analytics-nextjs)
 - [Next.js: How to Submit Your Sitemap to Google](https://www.davegray.codes/posts/nextjs-how-to-submit-your-sitemap)
 - [Next.js: How to Create Open Graph Social Media Cards](https://www.davegray.codes/posts/nextjs-open-graph-social-media-cards)
 - [Next.js: How to Build an RSS Feed](https://www.davegray.codes/posts/nextjs-how-to-build-an-rss-feed)
 - [Next.js: How to Build Sitemap and Robots.txt files](https://www.davegray.codes/posts/nextjs-how-to-build-sitemap-robots-txt)
-- [Does My Next.js Blog Need Canonical Links?](https://www.davegray.codes/posts/does-my-nextjs-blog-need-canonical-links)
 <!-- BLOG:END -->
 
 ### 📬 Connect with me:
