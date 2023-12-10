@@ -31,11 +31,11 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Automate Open Graph Image Creation in Next.js](https://www.davegray.codes/posts/automate-open-graph-images-nextjs)
 - [Light &amp; Dark Mode in Next.js App Router + Tailwind with No Flicker](https://www.davegray.codes/posts/light-dark-mode-nextjs-app-router-tailwind)
 - [Add Reading Time Estimates to Your Next.js Blog](https://www.davegray.codes/posts/add-reading-estimates-nextjs-blog)
 - [How to Add Google Analytics to Your Next.js Website](https://www.davegray.codes/posts/how-to-add-google-analytics-nextjs)
 - [Next.js: How to Submit Your Sitemap to Google](https://www.davegray.codes/posts/nextjs-how-to-submit-your-sitemap)
-- [Next.js: How to Create Open Graph Social Media Cards](https://www.davegray.codes/posts/nextjs-open-graph-social-media-cards)
 <!-- BLOG:END -->
 
 ### 📬 Connect with me:
