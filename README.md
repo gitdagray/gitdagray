@@ -21,11 +21,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Next.js Dark Mode with No Flicker + Tailwind CSS](https://www.youtube.com/watch?v=7zqI4qMDdg8)
 - [Next.js Auth in Under 60 Seconds 🏁](https://www.youtube.com/watch?v=j-A67bRKJ_c)
 - [Nest.js REST API with CORS, Rate Limits, Server Logs, &amp; Exception Filters](https://www.youtube.com/watch?v=hQTtioSw4Zo)
 - [🚀 Level Up Dev Skills for FREE 👀](https://www.youtube.com/watch?v=gWYkrTEYuhg)
 - [Nest.js REST API with Prisma ORM, Neon Postgres](https://www.youtube.com/watch?v=6He5Gyuuvxk)
-- [🔥 VS Code Tweak You Might Like 👀](https://www.youtube.com/watch?v=dGwe9MeZ9XU)
 <!-- YOUTUBE:END -->
 
 ### 📚 Latest Blog Posts
