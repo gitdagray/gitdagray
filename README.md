@@ -21,11 +21,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Why Does VS Code Get This Wrong?](https://www.youtube.com/watch?v=KbMErY2PmIA)
 - [Open Source Software - Get Started by Contributing to My Project](https://www.youtube.com/watch?v=Qqnup7Ed7s0)
 - [🔥 Multi-Factor Authentication](https://www.youtube.com/watch?v=UKt0PKup6mg)
 - [Next.js Dark Mode with No Flicker + Tailwind CSS](https://www.youtube.com/watch?v=7zqI4qMDdg8)
 - [Next.js Auth in Under 60 Seconds 🏁](https://www.youtube.com/watch?v=j-A67bRKJ_c)
-- [Nest.js REST API with CORS, Rate Limits, Server Logs, &amp; Exception Filters](https://www.youtube.com/watch?v=hQTtioSw4Zo)
 <!-- YOUTUBE:END -->
 
 ### 📚 Latest Blog Posts
