@@ -31,11 +31,11 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
+- [What is the Yandex Verification meta tag?](https://www.davegray.codes/posts/what-is-yandex-verification-meta-tag)
 - [Robots.txt is NOT Robots meta](https://www.davegray.codes/posts/robots-txt-vs-robots-meta)
-- [Robots.txt is NOT Robots meta](https://www.davegray.codes/posts/robots-txt-vs-robots-meta)
-- [Automate Open Graph Image Creation in Next.js](https://www.davegray.codes/posts/automate-open-graph-images-nextjs)
 - [Automate Open Graph Image Creation in Next.js](https://www.davegray.codes/posts/automate-open-graph-images-nextjs)
 - [Light &amp; Dark Mode in Next.js App Router + Tailwind with No Flicker](https://www.davegray.codes/posts/light-dark-mode-nextjs-app-router-tailwind)
+- [Add Reading Time Estimates to Your Next.js Blog](https://www.davegray.codes/posts/add-reading-estimates-nextjs-blog)
 <!-- BLOG:END -->
 
 ### 📬 Connect with me:
