@@ -31,11 +31,11 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
+- [How to Write a SQL Subquery with Drizzle ORM](https://www.davegray.codes/posts/how-to-write-a-sql-subquery-with-drizzle-orm)
+- [How to Auto-Format Unwanted Python Line Indentations in VS Code](https://www.davegray.codes/posts/how-to-auto-format-unwanted-python-line-indents)
+- [My 2023 Wrapped and a Look at 2024](https://www.davegray.codes/posts/2023-wrapped-next-2024)
+- [What is the Yandex Verification meta tag?](https://www.davegray.codes/posts/what-is-yandex-verification-meta-tag)
 - [Robots.txt is NOT Robots meta](https://www.davegray.codes/posts/robots-txt-vs-robots-meta)
-- [Robots.txt is NOT Robots meta](https://www.davegray.codes/posts/robots-txt-vs-robots-meta)
-- [Automate Open Graph Image Creation in Next.js](https://www.davegray.codes/posts/automate-open-graph-images-nextjs)
-- [Automate Open Graph Image Creation in Next.js](https://www.davegray.codes/posts/automate-open-graph-images-nextjs)
-- [Light &amp; Dark Mode in Next.js App Router + Tailwind with No Flicker](https://www.davegray.codes/posts/light-dark-mode-nextjs-app-router-tailwind)
 <!-- BLOG:END -->
 
 ### 📬 Connect with me:
