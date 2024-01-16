@@ -21,11 +21,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Next.js is NOT all JavaScript](https://www.youtube.com/watch?v=lqc8fq3ajBs)
 - [Python Django App &amp; Templates tutorial](https://www.youtube.com/watch?v=ZNrlc6TPcrU)
 - [Python Django Introduction and Beginners Tutorial](https://www.youtube.com/watch?v=qcJZN1pvG6A)
 - [Nest.js Full Course for Beginners | Complete All-in-One Tutorial | 3 Hours](https://www.youtube.com/watch?v=8_X0nSrzrCw)
 - [Why Does VS Code Get This Wrong?](https://www.youtube.com/watch?v=KbMErY2PmIA)
-- [Open Source Software - Get Started by Contributing to My Project](https://www.youtube.com/watch?v=Qqnup7Ed7s0)
 <!-- YOUTUBE:END -->
 
 ### 📚 Latest Blog Posts
