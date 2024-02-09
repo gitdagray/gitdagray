@@ -21,11 +21,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Python Django Pages, URLs &amp; Slugs](https://www.youtube.com/watch?v=csmEzyVeRIE)
 - [What is HTMX? Seriously 🤔](https://www.youtube.com/watch?v=yew16oDIqos)
 - [Python Django Admin tutorial](https://www.youtube.com/watch?v=4tiSmL4JmS0)
 - [Tailwind CSS now has HAS 🎉](https://www.youtube.com/watch?v=BmUEnLUqgzk)
 - [Python Django ORM Intro Tutorial](https://www.youtube.com/watch?v=4pXGCC6dcOg)
-- [Python Django Models and Migrations](https://www.youtube.com/watch?v=5DW4Ky1Um4o)
 <!-- YOUTUBE:END -->
 
 ### 📚 Latest Blog Posts
