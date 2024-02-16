@@ -21,11 +21,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Python Django Images - How to Upload &amp; Display Images](https://www.youtube.com/watch?v=GNsuF4xB80E)
 - [Why Do the React Docs Hide Vite??](https://www.youtube.com/watch?v=3ZUWcvkoyfA)
 - [Python Django Pages, URLs &amp; Slugs](https://www.youtube.com/watch?v=csmEzyVeRIE)
 - [What is HTMX? Seriously 🤔](https://www.youtube.com/watch?v=yew16oDIqos)
 - [Python Django Admin tutorial](https://www.youtube.com/watch?v=4tiSmL4JmS0)
-- [Tailwind CSS now has HAS 🎉](https://www.youtube.com/watch?v=BmUEnLUqgzk)
 <!-- YOUTUBE:END -->
 
 ### 📚 Latest Blog Posts
