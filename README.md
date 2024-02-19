@@ -31,11 +31,11 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Robots.txt is NOT Robots meta](https://www.davegray.codes/posts/robots-txt-vs-robots-meta)
-- [Robots.txt is NOT Robots meta](https://www.davegray.codes/posts/robots-txt-vs-robots-meta)
-- [Automate Open Graph Image Creation in Next.js](https://www.davegray.codes/posts/automate-open-graph-images-nextjs)
-- [Automate Open Graph Image Creation in Next.js](https://www.davegray.codes/posts/automate-open-graph-images-nextjs)
-- [Light &amp; Dark Mode in Next.js App Router + Tailwind with No Flicker](https://www.davegray.codes/posts/light-dark-mode-nextjs-app-router-tailwind)
+- [How to Download xlsx Files from a Next.js Route Handler](https://www.davegray.codes/posts/how-to-download-xlsx-files-from-a-nextjs-route-handler)
+- [How to get an Accurate Column Item Count in React Table](https://www.davegray.codes/posts/how-to-get-an-accurate-column-item-count-in-react-table)
+- [How to Write a SQL Subquery with Drizzle ORM](https://www.davegray.codes/posts/how-to-write-a-sql-subquery-with-drizzle-orm)
+- [How to Auto-Format Unwanted Python Line Indentations in VS Code](https://www.davegray.codes/posts/how-to-auto-format-unwanted-python-line-indents)
+- [My 2023 Wrapped and a Look at 2024](https://www.davegray.codes/posts/2023-wrapped-next-2024)
 <!-- BLOG:END -->
 
 ### 📬 Connect with me:
