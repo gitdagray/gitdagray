@@ -21,11 +21,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Add a Honeypot to Your Forms 🐝](https://www.youtube.com/watch?v=4aVgn9px0iI)
 - [Python Django Challenge for Beginners with Solution](https://www.youtube.com/watch?v=Hx8pfvwbDJA)
 - [Build a Simple HTMX Project | HTMX Explained with Examples](https://www.youtube.com/watch?v=te_lYPEDycc)
 - [You&#39;re Using Web Emojis Wrong! 😭](https://www.youtube.com/watch?v=d7z3Lr5HdWk)
 - [Python Django Images - How to Upload &amp; Display Images](https://www.youtube.com/watch?v=GNsuF4xB80E)
-- [Why Do the React Docs Hide Vite??](https://www.youtube.com/watch?v=3ZUWcvkoyfA)
 <!-- YOUTUBE:END -->
 
 ### 📚 Latest Blog Posts
