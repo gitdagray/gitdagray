@@ -21,11 +21,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [😲 TIL About This HTML Element](https://www.youtube.com/watch?v=sH4fyWRDrL0)
 - [Python Django User Registration - Full Tutorial](https://www.youtube.com/watch?v=DIFaOkxy6TE)
 - [The Problem with Next.js](https://www.youtube.com/watch?v=XHSiMSEE2S8)
 - [Add a Honeypot to Your Forms 🐝](https://www.youtube.com/watch?v=4aVgn9px0iI)
 - [Python Django Challenge for Beginners with Solution](https://www.youtube.com/watch?v=Hx8pfvwbDJA)
-- [Build a Simple HTMX Project | HTMX Explained with Examples](https://www.youtube.com/watch?v=te_lYPEDycc)
 <!-- YOUTUBE:END -->
 
 ### 📚 Latest Blog Posts
