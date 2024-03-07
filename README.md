@@ -21,11 +21,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Coding Advice for Beginners with Amy Dutton of RedwoodJS &amp; Compressed.fm](https://www.youtube.com/watch?v=9E63JuDTi0Q)
 - [Next.js Reports tutorial with Microsoft Excel](https://www.youtube.com/watch?v=Zz_mP5gAnxc)
 - [😲 TIL About This HTML Element](https://www.youtube.com/watch?v=sH4fyWRDrL0)
 - [Python Django User Registration - Full Tutorial](https://www.youtube.com/watch?v=DIFaOkxy6TE)
 - [The Problem with Next.js](https://www.youtube.com/watch?v=XHSiMSEE2S8)
-- [Add a Honeypot to Your Forms 🐝](https://www.youtube.com/watch?v=4aVgn9px0iI)
 <!-- YOUTUBE:END -->
 
 ### 📚 Latest Blog Posts
