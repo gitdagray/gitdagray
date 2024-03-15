@@ -21,11 +21,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Python Django User Authorization tutorial](https://www.youtube.com/watch?v=4Ba8AtSwJwg)
 - [Tips for Web Dev Beginners with Colby Fayock of Cloudinary](https://www.youtube.com/watch?v=KPd7tHFlWpk)
 - [Deploy with Docker - Step-by-step Tutorial](https://www.youtube.com/watch?v=NL23_cVq6XI)
 - [You&#39;re Typing CSS &amp; HTML Wrong! 😰](https://www.youtube.com/watch?v=dylAoAZLQeg)
 - [Django Login Form and User Authentication](https://www.youtube.com/watch?v=vzBFJ3WEvOQ)
-- [Coding Advice for Beginners with Amy Dutton of RedwoodJS &amp; Compressed.fm](https://www.youtube.com/watch?v=9E63JuDTi0Q)
 <!-- YOUTUBE:END -->
 
 ### 📚 Latest Blog Posts
