@@ -21,11 +21,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Don&#39;t Make These Next.js Mistakes](https://www.youtube.com/watch?v=iA8JR8GgTKs)
 - [Vim is a Joke 😆 &amp; VS Code Rules](https://www.youtube.com/watch?v=ZHoEYdocEBM)
 - [Python Django User Authorization tutorial](https://www.youtube.com/watch?v=4Ba8AtSwJwg)
 - [Tips for Web Dev Beginners with Colby Fayock of Cloudinary](https://www.youtube.com/watch?v=KPd7tHFlWpk)
 - [Deploy with Docker - Step-by-step Tutorial](https://www.youtube.com/watch?v=NL23_cVq6XI)
-- [You&#39;re Typing CSS &amp; HTML Wrong! 😰](https://www.youtube.com/watch?v=dylAoAZLQeg)
 <!-- YOUTUBE:END -->
 
 ### 📚 Latest Blog Posts
