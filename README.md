@@ -21,11 +21,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Should We Use The HTML Search Element?](https://www.youtube.com/watch?v=7K0aQaod7S0)
 - [Python Django Forms tutorial](https://www.youtube.com/watch?v=GQKKjrdS6pc)
 - [Why Beginners Need to Get Involved in Open Source with Eddie Jaoude](https://www.youtube.com/watch?v=6sQBq_Cf3Pk)
 - [Don&#39;t Make These Next.js Mistakes](https://www.youtube.com/watch?v=iA8JR8GgTKs)
 - [Vim is a Joke 😆 &amp; VS Code Rules](https://www.youtube.com/watch?v=ZHoEYdocEBM)
-- [Python Django User Authorization tutorial](https://www.youtube.com/watch?v=4Ba8AtSwJwg)
 <!-- YOUTUBE:END -->
 
 ### 📚 Latest Blog Posts
