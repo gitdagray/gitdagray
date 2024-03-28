@@ -21,11 +21,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Web Dev vs Web Design Explained with Rus Anderson](https://www.youtube.com/watch?v=yb9P_iu8DUY)
 - [What did Next.js Server Actions actually accomplish? And Other Questions...](https://www.youtube.com/watch?v=CacOInu6lBA)
 - [🚨 Don&#39;t Use The HTML Search Element... Yet](https://www.youtube.com/watch?v=7K0aQaod7S0)
 - [Python Django Forms tutorial](https://www.youtube.com/watch?v=GQKKjrdS6pc)
 - [Why Beginners Need to Get Involved in Open Source with Eddie Jaoude](https://www.youtube.com/watch?v=6sQBq_Cf3Pk)
-- [Don&#39;t Make These Next.js Mistakes](https://www.youtube.com/watch?v=iA8JR8GgTKs)
 <!-- YOUTUBE:END -->
 
 ### 📚 Latest Blog Posts
