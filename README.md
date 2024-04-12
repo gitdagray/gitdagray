@@ -21,11 +21,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Build Your UI Component Library in React &amp; Next.js | ShadCN UI for Beginners](https://www.youtube.com/watch?v=v0_AT8zaLo8)
 - [Python Django Full Course for Beginners | Complete All-in-One Tutorial | 3 Hours](https://www.youtube.com/watch?v=Rp5vd34d-z4)
 - [Why I Don&#39;t Use Next.js Server Actions to Fetch Client-Side Data](https://www.youtube.com/watch?v=O8AmIELoxrc)
 - [🤯 HTML has More Power than you know!](https://www.youtube.com/watch?v=0CNBJs1z_P8)
 - [Web Dev vs Web Design Explained with Rus Anderson](https://www.youtube.com/watch?v=yb9P_iu8DUY)
-- [What did Next.js Server Actions actually accomplish? And Other Questions...](https://www.youtube.com/watch?v=CacOInu6lBA)
 <!-- YOUTUBE:END -->
 
 ### 📚 Latest Blog Posts
