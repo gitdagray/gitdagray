@@ -21,11 +21,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Your Developer Portfolio NEEDS a Project like THIS](https://www.youtube.com/watch?v=xF-BL8XF4mg)
 - [We All Have a Different Developer Roadmap - Interview with Anthony Fu, Speaker at JSNation](https://www.youtube.com/watch?v=MNFjTXB6ln8)
 - [This is Why CSS is so Frustrating! 😭](https://www.youtube.com/watch?v=F9KUw1WSHds)
 - [Build Your UI Component Library in React &amp; Next.js | ShadCN UI for Beginners](https://www.youtube.com/watch?v=v0_AT8zaLo8)
 - [Python Django Full Course for Beginners | Complete All-in-One Tutorial | 3 Hours](https://www.youtube.com/watch?v=Rp5vd34d-z4)
-- [Why I Don&#39;t Use Next.js Server Actions to Fetch Client-Side Data](https://www.youtube.com/watch?v=O8AmIELoxrc)
 <!-- YOUTUBE:END -->
 
 ### 📚 Latest Blog Posts
