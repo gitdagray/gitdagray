@@ -21,11 +21,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [JSNation 2024 - Don&#39;t Miss Out!](https://www.youtube.com/watch?v=D9bKVJGv2Ic)
 - [Hired in 30 Hours &amp; The Power of Networking w/ Brian Morrison, Developer Educator](https://www.youtube.com/watch?v=TbgHpynRdaM)
 - [Build an AI RAG Application with LangChain &amp; Next.js](https://www.youtube.com/watch?v=YLagvzoWCL0)
 - [Best JavaScript is JS You Don&#39;t Need to Write - Interview w/  Scott Tolinski, Speaker at JSNation](https://www.youtube.com/watch?v=NiBfoq1EM4o)
 - [Your Developer Portfolio NEEDS a Project like THIS](https://www.youtube.com/watch?v=xF-BL8XF4mg)
-- [We All Have a Different Developer Roadmap - Interview with Anthony Fu, Speaker at JSNation](https://www.youtube.com/watch?v=MNFjTXB6ln8)
 <!-- YOUTUBE:END -->
 
 ### 📚 Latest Blog Posts
