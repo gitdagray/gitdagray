@@ -21,11 +21,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Next.js 15 Fixes Caching Issues | Nextjs Default Cache Changes](https://www.youtube.com/watch?v=PCy-lBnG0Fw)
 - [You Never Heard of This Form Element!? 😱](https://www.youtube.com/watch?v=y6aufauPTUg)
 - [Next.js Template vs Layout with Page Transition Animations](https://www.youtube.com/watch?v=1FyzVaWl4PA)
 - [JSNation 2024 - Don&#39;t Miss Out!](https://www.youtube.com/watch?v=D9bKVJGv2Ic)
 - [Hired in 30 Hours &amp; The Power of Networking w/ Brian Morrison, Developer Educator](https://www.youtube.com/watch?v=TbgHpynRdaM)
-- [Build an AI RAG Application with LangChain &amp; Next.js](https://www.youtube.com/watch?v=YLagvzoWCL0)
 <!-- YOUTUBE:END -->
 
 ### 📚 Latest Blog Posts
