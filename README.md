@@ -21,11 +21,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [NextJS Parallel Routes Explained with a Simple Example](https://www.youtube.com/watch?v=M836RZxReHU)
 - [🤔 Why So Many Tailwind Haters?](https://www.youtube.com/watch?v=line8Tfy_4s)
 - [Live stream of JSNation Conference – Day 1, Community Track #JSNation #GitNation](https://www.youtube.com/watch?v=YKc6kYPgEzU)
 - [Next.js 15 Fixes Caching Issues | Nextjs Default Cache Changes](https://www.youtube.com/watch?v=PCy-lBnG0Fw)
 - [You Never Heard of This Form Element!? 😱](https://www.youtube.com/watch?v=y6aufauPTUg)
-- [Next.js Template vs Layout with Page Transition Animations](https://www.youtube.com/watch?v=1FyzVaWl4PA)
 <!-- YOUTUBE:END -->
 
 ### 📚 Latest Blog Posts
