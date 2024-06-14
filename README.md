@@ -21,11 +21,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Next.js Modal Form w/ React-Hook-Form, ShadCN/ui Dialog, Server Actions &amp; Validation](https://www.youtube.com/watch?v=WyL_Jc6_-sY)
 - [Next.js Modal with Parallel &amp; Intercepting Routes, shadcn/ui Dialog](https://www.youtube.com/watch?v=Ft2qs7tOW1k)
 - [🚨 STOP Using Auth in Next.js Layouts](https://www.youtube.com/watch?v=x6hrvwNzj10)
 - [NextJS Parallel Routes Explained with a Simple Example](https://www.youtube.com/watch?v=M836RZxReHU)
 - [🤔 Why So Many Tailwind Haters?](https://www.youtube.com/watch?v=line8Tfy_4s)
-- [Next.js 15 Fixes Caching Issues | Nextjs Default Cache Changes](https://www.youtube.com/watch?v=PCy-lBnG0Fw)
 <!-- YOUTUBE:END -->
 
 ### 📚 Latest Blog Posts
