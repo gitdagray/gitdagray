@@ -31,11 +31,11 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
+- [How to Create Excel Spreadsheets with Styling Options Using JavaScript](https://www.davegray.codes/posts/how-to-create-excel-spreadsheets-with-styling-options-using-javascript)
 - [FIX: Git Bash is Slow and has Strange Random Characters in VS Code](https://www.davegray.codes/posts/git-bash-vs-code-slow-strange-random-characters)
 - [How to Download xlsx Files from a Next.js Route Handler](https://www.davegray.codes/posts/how-to-download-xlsx-files-from-a-nextjs-route-handler)
 - [How to get an Accurate Column Item Count in React Table](https://www.davegray.codes/posts/how-to-get-an-accurate-column-item-count-in-react-table)
 - [How to Write a SQL Subquery with Drizzle ORM](https://www.davegray.codes/posts/how-to-write-a-sql-subquery-with-drizzle-orm)
-- [How to Auto-Format Unwanted Python Line Indentations in VS Code](https://www.davegray.codes/posts/how-to-auto-format-unwanted-python-line-indents)
 <!-- BLOG:END -->
 
 ### 📬 Connect with me:
