@@ -21,11 +21,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Nextjs Server Actions Just Got Better](https://www.youtube.com/watch?v=ahB3DgUMs1A)
 - [Python REST API Tutorial for Beginners | How to Build a Flask REST API](https://www.youtube.com/watch?v=z3YMz-Gocmw)
 - [Next.js Modal Form w/ React-Hook-Form, ShadCN/ui Dialog, Server Actions &amp; Validation](https://www.youtube.com/watch?v=WyL_Jc6_-sY)
 - [Next.js Modal with Parallel &amp; Intercepting Routes, shadcn/ui Dialog](https://www.youtube.com/watch?v=Ft2qs7tOW1k)
 - [🚨 STOP Using Auth in Next.js Layouts](https://www.youtube.com/watch?v=x6hrvwNzj10)
-- [NextJS Parallel Routes Explained with a Simple Example](https://www.youtube.com/watch?v=M836RZxReHU)
 <!-- YOUTUBE:END -->
 
 ### 📚 Latest Blog Posts
