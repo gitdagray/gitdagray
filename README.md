@@ -31,11 +31,11 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
+- [React Drag and Drop: The Missing Example](https://www.davegray.codes/posts/missing-example-for-react-drag-n-drop)
 - [Bye Copilot - How to Create a Local AI Coding Assistant for Free](https://www.davegray.codes/posts/bye-copilot-how-to-create-a-local-ai-coding-assistant-for-free)
 - [Next.js Server Actions with next-safe-action](https://www.davegray.codes/posts/nextjs-server-actions-with-next-safe-action)
 - [How to Create Excel Spreadsheets with Styling Options Using JavaScript](https://www.davegray.codes/posts/how-to-create-excel-spreadsheets-with-styling-options-using-javascript)
 - [FIX: Git Bash is Slow and has Strange Random Characters in VS Code](https://www.davegray.codes/posts/git-bash-vs-code-slow-strange-random-characters)
-- [How to Download xlsx Files from a Next.js Route Handler](https://www.davegray.codes/posts/how-to-download-xlsx-files-from-a-nextjs-route-handler)
 <!-- BLOG:END -->
 
 ### 📬 Connect with me:
