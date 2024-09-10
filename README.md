@@ -21,11 +21,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [How I Keep Up on Web Dev Info 👀](https://www.youtube.com/watch?v=TRWEVsQKuuU)
 - [Drag and Drop in React - the missing example](https://www.youtube.com/watch?v=a6lYZWN4lVA)
 - [Why You Should Use TypeScript Generics with react-hook-form](https://www.youtube.com/watch?v=RxMFztEB6a4)
 - [Toast Notification Patterns with Next.js Server Actions and next-safe-action](https://www.youtube.com/watch?v=A_061Vqh6Bc)
 - [Amazing New VS Code AI Coding Assistant with Open Source Models](https://www.youtube.com/watch?v=he0_W5iCv-I)
-- [Nextjs Server Actions Just Got Better](https://www.youtube.com/watch?v=ahB3DgUMs1A)
 <!-- YOUTUBE:END -->
 
 ### 📚 Latest Blog Posts
