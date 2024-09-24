@@ -21,11 +21,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [BEST Way to Get a Dev Job 🏆](https://www.youtube.com/watch?v=d6rlBVDVyTo)
 - [Optimize Your Code!  🔥 How I Optimized Drag n Drop Form Inputs](https://www.youtube.com/watch?v=GvA2VVreK_g)
 - [Lookup Objects Are Better Conditionals! 🏆](https://www.youtube.com/watch?v=EXnXg6fhWiA)
 - [Fetch Data at Intervals in Nextjs with this Custom React Hook](https://www.youtube.com/watch?v=thQ-6hFpd4I)
 - [How I Keep Up on Web Dev Info 👀](https://www.youtube.com/watch?v=TRWEVsQKuuU)
-- [Drag and Drop in React - the missing example](https://www.youtube.com/watch?v=a6lYZWN4lVA)
 <!-- YOUTUBE:END -->
 
 ### 📚 Latest Blog Posts
