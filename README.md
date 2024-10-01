@@ -21,11 +21,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [BIG Mistake on Date Time Values ⏰😱](https://www.youtube.com/watch?v=0oorUIItZpo)
 - [localeCompare sorts better! 🔥](https://www.youtube.com/watch?v=TK8BXrJpLiY)
 - [BEST Way to Get a Dev Job 🏆](https://www.youtube.com/watch?v=d6rlBVDVyTo)
 - [Optimize Your Code!  🔥 How I Optimized Drag n Drop Form Inputs](https://www.youtube.com/watch?v=GvA2VVreK_g)
 - [Lookup Objects Are Better Conditionals! 🏆](https://www.youtube.com/watch?v=EXnXg6fhWiA)
-- [Fetch Data at Intervals in Nextjs with this Custom React Hook](https://www.youtube.com/watch?v=thQ-6hFpd4I)
 <!-- YOUTUBE:END -->
 
 ### 📚 Latest Blog Posts
