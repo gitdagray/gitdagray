@@ -21,11 +21,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Create an App with React Native](https://www.youtube.com/watch?v=1ETOJloLK3Y)
 - [NEXTJS Pro Shares Secret to Success for Web Dev Beginners | Jack Herrington, React Summit Speaker](https://www.youtube.com/watch?v=VPfFVIuPw_8)
 - [React Native for Beginners tutorial](https://www.youtube.com/watch?v=Hp9sTsiTZ_I)
 - [BIG Mistake on Date Time Values ⏰😱](https://www.youtube.com/watch?v=0oorUIItZpo)
 - [localeCompare sorts better! 🔥](https://www.youtube.com/watch?v=TK8BXrJpLiY)
-- [BEST Way to Get a Dev Job 🏆](https://www.youtube.com/watch?v=d6rlBVDVyTo)
 <!-- YOUTUBE:END -->
 
 ### 📚 Latest Blog Posts
