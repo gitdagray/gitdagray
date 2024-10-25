@@ -21,11 +21,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [React Native List Views for Beginners](https://www.youtube.com/watch?v=dUVuIJx-RYw)
 - [Next.js Authentication &amp; Login | Nextjs 15 Full Stack Project](https://www.youtube.com/watch?v=GjVcSpKCoB8)
 - [React Native Navigation with Expo Router](https://www.youtube.com/watch?v=czhLCGuu_AU)
 - [Next.js Full Stack Project w/ Nextjs 15 &amp; React 19](https://www.youtube.com/watch?v=djDgTYrFMAY)
 - [Google Chrome Engineer Reveals the Skills You Need to Succeed | Addy Osmani, React Summit &amp; JSNation](https://www.youtube.com/watch?v=qYslH4BZTsY)
-- [Create an App with React Native](https://www.youtube.com/watch?v=1ETOJloLK3Y)
 <!-- YOUTUBE:END -->
 
 ### 📚 Latest Blog Posts
