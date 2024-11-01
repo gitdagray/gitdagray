@@ -21,11 +21,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [React Native CRUD App | Build a Complete Project](https://www.youtube.com/watch?v=FRpLxVuIhSw)
 - [Next.js + PostgreSQL + Drizzle ORM - Nextjs Full Stack Project](https://www.youtube.com/watch?v=tiSm8ZjFQP0)
 - [React Native List Views for Beginners](https://www.youtube.com/watch?v=dUVuIJx-RYw)
 - [Next.js Authentication &amp; Login | Nextjs 15 Full Stack Project](https://www.youtube.com/watch?v=GjVcSpKCoB8)
 - [React Native Navigation with Expo Router](https://www.youtube.com/watch?v=czhLCGuu_AU)
-- [Next.js Full Stack Project w/ Nextjs 15 &amp; React 19](https://www.youtube.com/watch?v=djDgTYrFMAY)
 <!-- YOUTUBE:END -->
 
 ### 📚 Latest Blog Posts
