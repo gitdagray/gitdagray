@@ -21,11 +21,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Live stream of React Summit US conference – Day 1, Summit Track #ReactSummitUS #GitNation](https://www.youtube.com/watch?v=C8Mg-NSyqWg)
+- [Live stream of JSNation US conference – Day 1, Community Track #JSNationUS #GitNation](https://www.youtube.com/watch?v=7jNTHyeAt7k)
 - [Next.js SQL Data Queries with Drizzle ORM - Nextjs Full Stack Project](https://www.youtube.com/watch?v=-55iMEgSLhg)
 - [React Native CRUD App | Build a Complete Project](https://www.youtube.com/watch?v=FRpLxVuIhSw)
 - [Next.js + PostgreSQL + Drizzle ORM - Nextjs Full Stack Project](https://www.youtube.com/watch?v=tiSm8ZjFQP0)
-- [React Native List Views for Beginners](https://www.youtube.com/watch?v=dUVuIJx-RYw)
-- [Next.js Authentication &amp; Login | Nextjs 15 Full Stack Project](https://www.youtube.com/watch?v=GjVcSpKCoB8)
 <!-- YOUTUBE:END -->
 
 ### 📚 Latest Blog Posts
