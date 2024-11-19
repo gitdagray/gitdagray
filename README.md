@@ -25,7 +25,7 @@
 - [Next.js with React-Hook-Form, Drizzle-Zod, &amp; ShadCN/ui | Nextjs Full Stack Project](https://www.youtube.com/watch?v=bg6KyucKd88)
 - [React Native Data Storage, Theme Toggle, Animations &amp; Fonts](https://www.youtube.com/watch?v=Af3w1LYgiHY)
 - [Live stream of React Summit US conference – Day 1, Summit Track #ReactSummitUS #GitNation](https://www.youtube.com/watch?v=C8Mg-NSyqWg)
-- [Live stream of JSNation US conference – Day 1, Community Track #JSNationUS #GitNation](https://www.youtube.com/watch?v=7jNTHyeAt7k)
+- [Next.js SQL Data Queries with Drizzle ORM - Nextjs Full Stack Project](https://www.youtube.com/watch?v=-55iMEgSLhg)
 <!-- YOUTUBE:END -->
 
 ### 📚 Latest Blog Posts
