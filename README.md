@@ -24,8 +24,8 @@
 - [Dynamic File-based Routing in React Native with Expo Router](https://www.youtube.com/watch?v=FUpvQQzBJmU)
 - [Next.js with React-Hook-Form, Drizzle-Zod, &amp; ShadCN/ui | Nextjs Full Stack Project](https://www.youtube.com/watch?v=bg6KyucKd88)
 - [React Native Data Storage, Theme Toggle, Animations &amp; Fonts](https://www.youtube.com/watch?v=Af3w1LYgiHY)
-- [Live stream of React Summit US conference – Day 1, Summit Track #ReactSummitUS #GitNation](https://www.youtube.com/watch?v=C8Mg-NSyqWg)
 - [Next.js SQL Data Queries with Drizzle ORM - Nextjs Full Stack Project](https://www.youtube.com/watch?v=-55iMEgSLhg)
+- [React Native CRUD App | Build a Complete Project](https://www.youtube.com/watch?v=FRpLxVuIhSw)
 <!-- YOUTUBE:END -->
 
 ### 📚 Latest Blog Posts
