@@ -21,11 +21,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Permissions &amp; Authorization in a Next.js Full Stack Project](https://www.youtube.com/watch?v=VueEcnP9LZg)
 - [React Native Development Build tutorial with EAS](https://www.youtube.com/watch?v=Th8uRHWOv-Q)
 - [Type Safe Form Inputs with React-Hook-Form, ShadCN/ui - Next.js Full Stack Project](https://www.youtube.com/watch?v=zjhJ9YTwUiY)
 - [Dynamic File-based Routing in React Native with Expo Router](https://www.youtube.com/watch?v=FUpvQQzBJmU)
 - [Next.js with React-Hook-Form, Drizzle-Zod, &amp; ShadCN/ui | Nextjs Full Stack Project](https://www.youtube.com/watch?v=bg6KyucKd88)
-- [React Native Data Storage, Theme Toggle, Animations &amp; Fonts](https://www.youtube.com/watch?v=Af3w1LYgiHY)
 <!-- YOUTUBE:END -->
 
 ### 📚 Latest Blog Posts
