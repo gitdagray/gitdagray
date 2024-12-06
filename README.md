@@ -21,11 +21,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Search in Next.js with Drizzle ORM | Nextjs Full Stack Project](https://www.youtube.com/watch?v=dgDFPRol0cw)
 - [This Is The Way.. Next.js Server Actions with next-safe-action &amp; Sentry](https://www.youtube.com/watch?v=4IJonW24uck)
 - [React Native Full Course for Beginners | Complete All-in-One Tutorial | 4 Hours](https://www.youtube.com/watch?v=WDunoPNBxKA)
 - [Permissions &amp; Authorization in a Next.js Full Stack Project](https://www.youtube.com/watch?v=VueEcnP9LZg)
 - [React Native Development Build tutorial with EAS](https://www.youtube.com/watch?v=Th8uRHWOv-Q)
-- [Type Safe Form Inputs with React-Hook-Form, ShadCN/ui - Next.js Full Stack Project](https://www.youtube.com/watch?v=zjhJ9YTwUiY)
 <!-- YOUTUBE:END -->
 
 ### 📚 Latest Blog Posts
