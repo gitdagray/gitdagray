@@ -21,11 +21,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [React Table with Pagination, Column Filters &amp; Sorting | Next.js Full Stack Project](https://www.youtube.com/watch?v=QAfCAs7iRCU)
 - [React Table with Next.js, ShadCN, TanStack | Nextjs Full Stack Project](https://www.youtube.com/watch?v=ereMZIC1wac)
 - [Search in Next.js with Drizzle ORM | Nextjs Full Stack Project](https://www.youtube.com/watch?v=dgDFPRol0cw)
 - [This Is The Way.. Next.js Server Actions with next-safe-action &amp; Sentry](https://www.youtube.com/watch?v=4IJonW24uck)
 - [React Native Full Course for Beginners | Complete All-in-One Tutorial | 4 Hours](https://www.youtube.com/watch?v=WDunoPNBxKA)
-- [Permissions &amp; Authorization in a Next.js Full Stack Project](https://www.youtube.com/watch?v=VueEcnP9LZg)
 <!-- YOUTUBE:END -->
 
 ### 📚 Latest Blog Posts
