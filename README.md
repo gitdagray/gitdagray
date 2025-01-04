@@ -21,11 +21,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [How to deploy a Next.js project on Vercel | Nextjs Full Stack Project series](https://www.youtube.com/watch?v=JmP9H3kuNsE)
 - [React Table with Live Updates | Data Polling in Next.js &amp; TanStack Table](https://www.youtube.com/watch?v=uPdQaMOcaH0)
 - [React Table with Pagination, Column Filters &amp; Sorting | Next.js Full Stack Project](https://www.youtube.com/watch?v=QAfCAs7iRCU)
 - [React Table with Next.js, ShadCN, TanStack | Nextjs Full Stack Project](https://www.youtube.com/watch?v=ereMZIC1wac)
 - [Search in Next.js with Drizzle ORM | Nextjs Full Stack Project](https://www.youtube.com/watch?v=dgDFPRol0cw)
-- [This Is The Way.. Next.js Server Actions with next-safe-action &amp; Sentry](https://www.youtube.com/watch?v=4IJonW24uck)
 <!-- YOUTUBE:END -->
 
 ### 📚 Latest Blog Posts
