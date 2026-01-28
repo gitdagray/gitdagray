@@ -21,11 +21,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [This Changes How You Should Think About AI](https://www.youtube.com/watch?v=QR9WIcg-YQk)
 - [Everything Has Changed! Are You Still Writing Code in 2026?](https://www.youtube.com/watch?v=hACMXL6MO7I)
 - [How to deploy a Next.js project on Vercel | Nextjs Full Stack Project series](https://www.youtube.com/watch?v=JmP9H3kuNsE)
 - [React Table with Live Updates | Data Polling in Next.js &amp; TanStack Table](https://www.youtube.com/watch?v=uPdQaMOcaH0)
 - [React Table with Pagination, Column Filters &amp; Sorting | Next.js Full Stack Project](https://www.youtube.com/watch?v=QAfCAs7iRCU)
-- [React Table with Next.js, ShadCN, TanStack | Nextjs Full Stack Project](https://www.youtube.com/watch?v=ereMZIC1wac)
 <!-- YOUTUBE:END -->
 
 ### 📚 Latest Blog Posts
