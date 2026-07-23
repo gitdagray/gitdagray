@@ -14,7 +14,7 @@
 
 ### 💻 Useful Links
 
-- 📚 [FREE Web Dev Roadmap](https://courses.davegray.codes/) with 70+ Hours of tutorials
+- 📚 [FREE Web Dev Roadmap](http://web.archive.org/web/20251211210718/https://courses.davegray.codes/) with 70+ Hours of tutorials
 - ❓ [My Discord][discord] is a great place to ask questions
 - ☕ [Sponsor My Work](https://github.com/sponsors/gitdagray) if you like what I do. I appreciate the support! 
 
